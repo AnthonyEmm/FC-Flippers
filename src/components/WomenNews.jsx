@@ -17,7 +17,7 @@ const WomenNews = () => {
 
   useEffect(() => {
     const fetchPlayers = () => {
-      fetch("/src/WomensNewsData/playersData.json")
+      fetch("/WomensNewsData/playersData.json")
         .then((response) => response.json())
         .then((data) => {
           // Fetch the data and use the current language to display translations

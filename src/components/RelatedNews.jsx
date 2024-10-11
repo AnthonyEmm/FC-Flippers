@@ -28,7 +28,7 @@ const RelatedNews = () => {
       .then((data) => setNewsItems(data))
       .catch((error) => console.error("Error fetching news items:", error));
 
-    fetch("/src/RelatedNewsTitleData/titles.json")
+    fetch("/RelatedNewsTitleData/titles.json")
       .then((response) => response.json())
       .then((data) => setTitles(data))
       .catch((error) => console.error("Error fetching titles:", error));
