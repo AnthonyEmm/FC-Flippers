@@ -116,15 +116,26 @@ const VideoShowcase = () => {
                 duration-300 ease-in-out transform hover:scale-105 hover:z-10"
                 onClick={() => handleOpenModal(video.src)}
               >
-                <video
-                  src={video.src}
-                  className="w-full h-[30vh] sm:h-[35vh] md:h-[30vh] lg:h-[55vh] object-cover"
-                  muted
-                  preload="auto"
-                  onError={(e) => {
-                    e.target.style.backgroundColor = "#FFF0D1";
-                  }}
-                />
+                {/* Conditional rendering for video or fallback image */}
+                {window.innerWidth <= 768 ? (
+                  <img
+                    src="/Flippers.png"
+                    className="w-full h-[30vh] sm:h-[35vh] md:h-[30vh] lg:h-[55vh] object-cover"
+                    alt="Fallback Background"
+                  />
+                ) : (
+                  <video
+                    src={video.src}
+                    className="w-full h-[30vh] sm:h-[35vh] md:h-[30vh] lg:h-[55vh] object-cover"
+                    muted
+                    preload="auto"
+                    playsInline
+                    autoPlay
+                    onError={(e) => {
+                      e.target.style.backgroundColor = "#FFF0D1";
+                    }}
+                  />
+                )}
                 <div className="absolute inset-0 flex items-center justify-center transition-all duration-300">
                   <span className="text-white text-4xl">
                     <CgPlayButtonR color="#6EC207" />
@@ -156,6 +167,8 @@ const VideoShowcase = () => {
                   className="w-full h-55 object-cover"
                   muted
                   preload="auto"
+                  playsInline
+                  autoPlay
                   onError={(e) => {
                     e.target.style.backgroundColor = "#FFF0D1";
                   }}
@@ -167,8 +180,7 @@ const VideoShowcase = () => {
                 </div>
                 <div className="p-4 bg-gray-800">
                   <h3 className="text-left font-bold uppercase text-sm text-white mb-2">
-                    {t(`clubVideos.video${index + 3}Title`)}{" "}
-                    {/* Adjust title index */}
+                    {t(`clubVideos.video${index + 3}Title`)}
                   </h3>
                   <p className="text-left text-white text-xl font-bold">
                     {t(`clubVideos.video${index + 3}Description`)}
