@@ -34,7 +34,7 @@ const Home = () => {
   useEffect(() => {
     const fetchImages = async () => {
       try {
-        const response = await fetch("/src/HomeImagesData/images.json");
+        const response = await fetch("/HomeImagesData/images.json");
         const data = await response.json();
         setImages(data.images);
         setCardImages(data.cardImages);
