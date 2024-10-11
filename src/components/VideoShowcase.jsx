@@ -63,7 +63,7 @@ const VideoShowcase = () => {
 
   const fetchVideos = async () => {
     try {
-      const response = await fetch("/src/VideosData/videos.json");
+      const response = await fetch("/VideosData/videos.json");
       const data = await response.json();
       setVideos(data);
     } catch (error) {
