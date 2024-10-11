@@ -26,7 +26,7 @@ const AcademyTeam = () => {
   const modalRef = useRef(null); // Reference for the modal
 
   useEffect(() => {
-    fetch("/src/AcademyData/players.json")
+    fetch("/AcademyData/players.json")
       .then((response) => response.json())
       .then((data) => {
         setPlayers(data);

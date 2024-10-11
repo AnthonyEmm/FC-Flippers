@@ -18,7 +18,7 @@ const MedicalStaff = () => {
       } else {
         try {
           const response = await fetch(
-            "/src/MedicalStaffData/medicalStaffData.json",
+            "/MedicalStaffData/medicalStaffData.json",
           );
           const data = await response.json();
           setDoctors(data.doctors);

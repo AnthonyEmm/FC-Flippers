@@ -17,7 +17,7 @@ const CoachingStaff = () => {
       } else {
         try {
           const response = await fetch(
-            "/src/CoachingStaffData/coachingStaffData.json",
+            "/CoachingStaffData/coachingStaffData.json",
           );
           const data = await response.json();
           setCoaches(data.coaches);

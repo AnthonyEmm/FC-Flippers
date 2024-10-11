@@ -17,7 +17,7 @@ const MedicalCenter = () => {
 
   // Fetch data from JSON file
   useEffect(() => {
-    fetch("/src/MedicalCenterData/medicalData.json")
+    fetch("/MedicalCenterData/medicalData.json")
       .then((response) => response.json())
       .then((data) => {
         setData(data);

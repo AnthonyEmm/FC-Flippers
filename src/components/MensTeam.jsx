@@ -28,7 +28,7 @@ const MensTeam = () => {
   useEffect(() => {
     const fetchPlayers = async () => {
       try {
-        const response = await fetch("/src/MensTeam/mensTeamData.json");
+        const response = await fetch("/MensTeam/mensTeamData.json");
         const data = await response.json();
         setPlayers(data.players);
       } catch (error) {

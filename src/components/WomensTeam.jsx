@@ -28,7 +28,7 @@ const WomensTeam = () => {
   useEffect(() => {
     const fetchPlayers = async () => {
       try {
-        const response = await fetch("/src/WomensTeamData/womensTeamData.json");
+        const response = await fetch("/WomensTeamData/womensTeamData.json");
         const data = await response.json();
         setPlayers(data.players);
       } catch (error) {
