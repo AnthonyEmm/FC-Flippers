@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "FC Flippers Slogan",
+    "src": "/Vision.mp4",
+    "description": "In the spirit of FC Flippers to inspire you"
+  },
+  {
+    "id": 2,
+    "title": "A Glimpse of our youth academy",
+    "src": "/Academy_Field.mp4",
+    "description": "FC Flippers Academy: All you need to know"
+  },
+  {
+    "id": 3,
+    "title": "A Peek of our U-17 Team",
+    "src": "/U17_game.mp4",
+    "description": "FC Flippers U-17 team in action"
+  },
+  {
+    "id": 4,
+    "title": "Our Fans, our Pride!!",
+    "src": "/Fans_view.mp4",
+    "description": "The FC Flippers Fans turnout to a game"
+  },
+  {
+    "id": 5,
+    "title": "FC Flippers Women Game Day",
+    "src": "/women_game2.mp4",
+    "description": "The FC Flippers women doing their thing"
+  },
+  {
+    "id": 6,
+    "title": "FC Flippers Academy Team",
+    "src": "/Academy_training.mp4",
+    "description": "The FC Flippers team having fun"
+  },
+  {
+    "id": 7,
+    "title": "FC Flippers Mens Team",
+    "src": "/Flippers_Men.mp4",
+    "description": "The FC Flippers Mens playing an away game"
+  },
+  {
+    "id": 8,
+    "title": "FC Flippers Academy Team diary",
+    "src": "/Academy_program.mp4",
+    "description": "FC Flippers Academy Team at a training program"
+  }
+]

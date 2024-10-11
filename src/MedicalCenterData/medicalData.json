@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Lobby",
+    "image": "/relaxation.webp",
+    "description": "Relaxation area for our players after training sessions.",
+    "translations": {
+      "en": {
+        "title": "Lobby",
+        "description": "Relaxation area for our players after training sessions."
+      },
+      "de": {
+        "title": "Lobbybereich",
+        "description": "Entspannungsbereich für unsere Spieler nach dem Training."
+      },
+      "fr": {
+        "title": "Hall d'entrée",
+        "description": "Zone de relaxation pour nos joueurs après les séances d'entraînement."
+      },
+      "es": {
+        "title": "Vestíbulo",
+        "description": "Área de relajación para nuestros jugadores después de las sesiones de entrenamiento."
+      },
+      "it": {
+        "title": "Hall",
+        "description": "Area relax per i nostri giocatori dopo le sessioni di allenamento."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Consultation Room",
+    "image": "/consult.webp",
+    "description": "Comprehensive general health consultations with our experienced doctors.",
+    "translations": {
+      "en": {
+        "title": "Consultation Room",
+        "description": "Comprehensive general health consultations with our experienced doctors."
+      },
+      "de": {
+        "title": "Beratungsraum",
+        "description": "Umfassende allgemeine Gesundheitsberatungen mit unseren erfahrenen Ärzten."
+      },
+      "fr": {
+        "title": "Salle de consultation",
+        "description": "Consultations de santé générale complètes avec nos médecins expérimentés."
+      },
+      "es": {
+        "title": "Sala de consulta",
+        "description": "Consultas generales de salud completas con nuestros médicos experimentados."
+      },
+      "it": {
+        "title": "Sala di consultazione",
+        "description": "Consultazioni generali complete con i nostri medici esperti."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Club Gym",
+    "image": "/club_gym.webp",
+    "description": "Wide range of training equipment for our players to exercise and keep fit.",
+    "translations": {
+      "en": {
+        "title": "Club Gym",
+        "description": "Wide range of training equipment for our players to exercise and keep fit."
+      },
+      "de": {
+        "title": "Fitnessstudio",
+        "description": "Eine große Auswahl an Trainingsgeräten für unsere Spieler, um sich zu bewegen und fit zu halten."
+      },
+      "fr": {
+        "title": "Salle de Sport",
+        "description": "Un large éventail d'équipements d'entraînement pour permettre à nos joueurs de faire de l'exercice et de se maintenir en forme."
+      },
+      "es": {
+        "title": "Gimnasio",
+        "description": "Amplia gama de equipos de entrenamiento para que nuestros jugadores hagan ejercicio y se mantengan en forma."
+      },
+      "it": {
+        "title": "Palestra",
+        "description": "Un'ampia gamma di attrezzature per l'allenamento e il mantenimento della forma fisica dei nostri giocatori."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Recovery",
+    "image": "/wellness.webp",
+    "description": "Players' recovery area and wellness.",
+    "translations": {
+      "en": {
+        "title": "Recovery",
+        "description": "Players' recovery area and wellness."
+      },
+      "de": {
+        "title": "Erholung",
+        "description": "Bereich zur Erholung der Spieler und Wellness."
+      },
+      "fr": {
+        "title": "Récupération",
+        "description": "Zone de récupération et de bien-être pour les joueurs."
+      },
+      "es": {
+        "title": "Recuperación",
+        "description": "Área de recuperación y bienestar para los jugadores."
+      },
+      "it": {
+        "title": "Recupero",
+        "description": "Area di recupero e benessere per i giocatori."
+      }
+    }
+  }
+]

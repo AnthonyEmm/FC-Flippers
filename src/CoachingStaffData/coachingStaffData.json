@@ -1,0 +1,110 @@
+{
+  "version": 2,
+  "coaches": [
+    {
+      "id": 1,
+      "firstname": "HENRY",
+      "lastname": "DUNN",
+      "status": "headcoach",
+      "image": "/head_coach.jpg"
+    },
+    {
+      "id": 2,
+      "firstname": "TRAVIS",
+      "lastname": "ALLEN",
+      "status": "assistant",
+      "image": "/assistant_coach.jpg"
+    },
+    {
+      "id": 3,
+      "firstname": "LIONEL",
+      "lastname": "BAKER",
+      "status": "keeper",
+      "image": "/keeper_coach.jpg"
+    },
+    {
+      "id": 4,
+      "firstname": "JAHN",
+      "lastname": "KOELLER",
+      "status": "attack",
+      "image": "/Attack_trainer.jpg"
+    },
+    {
+      "id": 5,
+      "firstname": "JOSE",
+      "lastname": "ADELANTE",
+      "status": "defence",
+      "image": "/defence_coach.jpg"
+    },
+    {
+      "id": 6,
+      "firstname": "ARATA",
+      "lastname": "MORI",
+      "status": "physio",
+      "image": "/physio_trainer.jpg"
+    },
+    {
+      "id": 7,
+      "firstname": "BERTHA",
+      "lastname": "RAMOS",
+      "status": "women",
+      "image": "/women_head.jpg"
+    },
+    {
+      "id": 8,
+      "firstname": "NAOMI",
+      "lastname": "KRAMER",
+      "status": "assistant2",
+      "image": "/assist_women.jpg"
+    },
+    {
+      "id": 9,
+      "firstname": "TINA",
+      "lastname": "MORRIS",
+      "status": "keeper2",
+      "image": "/keeper_women.jpg"
+    },
+    {
+      "id": 10,
+      "firstname": "NIGEL",
+      "lastname": "HOWARD",
+      "status": "attack2",
+      "image": "/attack_women.jpg"
+    },
+    {
+      "id": 11,
+      "firstname": "DWAYNE",
+      "lastname": "ELIS",
+      "status": "defence2",
+      "image": "/defence_women.jpg"
+    },
+    {
+      "id": 12,
+      "firstname": "BJÖRN",
+      "lastname": "LARSSON",
+      "status": "tactics",
+      "image": "/tactics.jpg"
+    },
+    {
+      "id": 13,
+      "firstname": "ALAIN",
+      "lastname": "MOREAU",
+      "status": "academy",
+      "image": "/academy_coach.jpg"
+    },
+    {
+      "id": 14,
+      "firstname": "INARA",
+      "lastname": "AVERY",
+      "status": "assistant3",
+      "image": "/academy_assist.jpg"
+    },
+    {
+      "id": 15,
+      "firstname": "GIANNA",
+      "lastname": "ANDERSON",
+      "status": "instructor",
+      "image": "/instructor.jpg"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "images": [
+    {
+      "src": "/Stad.webp",
+      "alt": {
+        "en": "Slide 1",
+        "de": "Folie 1",
+        "fr": "Diapositive 1",
+        "es": "Diapositiva 1",
+        "it": "Diapositiva 1"
+      },
+      "title": {
+        "en": "Our Main Stadium",
+        "de": "Unser Hauptstadion",
+        "fr": "Notre Stade Principal",
+        "es": "Nuestro Estadio Principal",
+        "it": "Il Nostro Stadio Principale"
+      },
+      "description": {
+        "en": "Experience the best matches in an electrifying stadium...",
+        "de": "Erleben Sie die besten Spiele in einem elektrisierenden Stadion...",
+        "fr": "Vivez les meilleurs matchs dans un stade électrisant...",
+        "es": "Vive los mejores partidos en un estadio electrizante...",
+        "it": "Vivi le migliori partite in uno stadio elettrizzante..."
+      },
+      "link": "/stadium"
+    },
+    {
+      "src": "/new_signings.webp",
+      "alt": {
+        "en": "Slide 3",
+        "de": "Folie 3",
+        "fr": "Diapositive 3",
+        "es": "Diapositiva 3",
+        "it": "Diapositiva 3"
+      },
+      "title": {
+        "en": "FC Flippers News Signings",
+        "de": "FC Flippers Neue Unterzeichnungen",
+        "fr": "Nouvelles signatures des FC Flippers",
+        "es": "FC Flippers nuevos fichajes",
+        "it": "Nuovi acquisti dell'FC Flippers"
+      },
+      "description": {
+        "en": "Meet the latest inclusion to our team...",
+        "de": "Lernen Sie unsere neuesten Teammitglieder kennen...",
+        "fr": "Rencontrez les nouveaux membres de notre équipe...",
+        "es": "Conozca a los nuevos miembros de nuestro equipo...",
+        "it": "Incontra i nostri nuovi membri del team..."
+      },
+      "link": "/news/womens-team-update/major-changes-to-our-female-squad"
+    },
+    {
+      "src": "/pic_slide2.webp",
+      "alt": {
+        "en": "Slide 2",
+        "de": "Folie 2",
+        "fr": "Diapositive 2",
+        "es": "Diapositiva 2",
+        "it": "Diapositiva 2"
+      },
+      "title": {
+        "en": "Home of Champions",
+        "de": "Heimat der Champions",
+        "fr": "La Maison des Champions",
+        "es": "La Casa de los Campeones",
+        "it": "Casa dei Campioni"
+      },
+      "description": {
+        "en": "Join us in celebrating our team victories...",
+        "de": "Feiern Sie mit uns die Siege unseres Teams...",
+        "fr": "Rejoignez-nous pour célébrer les victoires de notre équipe...",
+        "es": "Únase a nosotros para celebrar las victorias de nuestro equipo...",
+        "it": "Unisciti a noi per celebrare le vittorie della nostra squadra..."
+      },
+      "link": "/news"
+    },
+    {
+      "src": "/tactics-board.webp",
+      "alt": {
+        "en": "Slide 4",
+        "de": "Folie 4",
+        "fr": "Diapositive 4",
+        "es": "Diapositiva 4",
+        "it": "Diapositiva 4"
+      },
+      "title": {
+        "en": "Press Release",
+        "de": "Presseinformation",
+        "fr": "Communiqué de Presse",
+        "es": "Comunicado de Prensa",
+        "it": "Comunicato Stampa"
+      },
+      "description": {
+        "en": "Coaching Course Update...",
+        "de": "Aktualisierung des Trainerkurs...",
+        "fr": "Mise à jour du cours d'entraînement...",
+        "es": "Actualización del curso de entrenador...",
+        "it": "Aggiornamento del corso di Allenamento..."
+      },
+      "link": "/news/fc-flippers-announces-coaching-course"
+    }
+  ],
+  "cardImages": [
+    {
+      "src": "/game1.webp",
+      "alt": {
+        "en": "News 1",
+        "de": "Nachricht 1",
+        "fr": "Actualité 1",
+        "es": "Noticia 1",
+        "it": "Notizia 1"
+      }
+    },
+    {
+      "src": "/flippers-women.webp",
+      "alt": {
+        "en": "News 2",
+        "de": "Nachricht 2",
+        "fr": "Actualité 2",
+        "es": "Noticia 2",
+        "it": "Notizia 2"
+      }
+    },
+    {
+      "src": "/Coach.webp",
+      "alt": {
+        "en": "News 3",
+        "de": "Nachricht 3",
+        "fr": "Actualité 3",
+        "es": "Noticia 3",
+        "it": "Notizia 3"
+      }
+    },
+    {
+      "src": "/injury.webp",
+      "alt": {
+        "en": "News 4",
+        "de": "Nachricht 4",
+        "fr": "Actualité 4",
+        "es": "Noticia 4",
+        "it": "Notizia 4"
+      }
+    },
+    {
+      "src": "/derby2.webp",
+      "alt": {
+        "en": "News 5",
+        "de": "Nachricht 5",
+        "fr": "Actualité 5",
+        "es": "Noticia 5",
+        "it": "Notizia 5"
+      }
+    },
+    {
+      "src": "/tactics-board.webp",
+      "alt": {
+        "en": "News 6",
+        "de": "Nachricht 6",
+        "fr": "Actualité 6",
+        "es": "Noticia 6",
+        "it": "Notizia 6"
+      }
+    }
+  ]
+}

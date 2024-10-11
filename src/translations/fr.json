@@ -1,0 +1,616 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "news": "Actualités",
+    "matches": "Matchs",
+    "stadium": "Stade",
+    "team": "Équipes",
+    "store": "Magasin"
+  },
+  "countdown": {
+    "count": "Compte à rebours du Derby",
+    "clubLogo": "FC Flippers contre FC Golden Stars",
+    "days": "Jours",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "seconds": "Secondes",
+    "date": "30 Novembre 2024",
+    "time": "Heure : 17h00",
+    "imageAlt": "Logo des Flippers FC",
+    "imageAlt2": "Logo des Golden Stars "
+  },
+  "cookies": {
+    "settings": "Paramètres des Cookies",
+    "consent": "Nous utilisons des cookies pour personnaliser votre expérience, analyser l'utilisation du site et contribuer à nos efforts de marketing. Vous pouvez gérer vos préférences ou accepter tous les cookies.",
+    "learn": "Plus d'Informations",
+    "strictly": "Strictement Nécessaire",
+    "functional": "Cookies Fonctionnels",
+    "analytics": "Cookies Analytiques",
+    "marketing": "Cookies Marketing",
+    "accept": "Accepter Tout",
+    "reject": "Rejeter Tout",
+    "preferences": "Enregistrer les Préférences",
+    "always": "Toujours Actif"
+  },
+  "privacy": {
+    "policy": "Politique de Cookies",
+    "view": "Afficher la Politique des Cookies",
+    "close": "Minimiser"
+  },
+  "footer": {
+    "rights": "FC Flippers. Tous droits réservés",
+    "address": "23 Rue Flippers, 84022 Ville du football"
+  },
+  "home": {
+    "welcome": "Bienvenue chez FC Flippers"
+  },
+  "news": {
+    "latest": "Actualités du Club",
+    "breakingNewsTitle": "Dernières nouvelles : Inscriptions à l'académie FC Flippers 2024/2025",
+    "breakingNewsDescription": "Un événement passionnant est en cours",
+    "womensTeamTitle": "Équipe féminine de FC Flippers",
+    "womensTeamDescription": "De nouvelles joueuses signées pour notre équipe féminine",
+    "matchUpdatesTitle": "Mises à jour des matchs",
+    "matchUpdatesDescription": "Découvrez les résultats des matchs et les matchs à venir.",
+    "getToKnowOurClubTitle": "Découvrez notre club",
+    "getToKnowOurClubDescription": "Découvrez notre mission et notre vision",
+    "derbyMatch": "Le choc de Derby",
+    "derbyDescription": "Le derby tant attendu des FC Flippers",
+    "dennisMolembeTitle": "DENNIS MOLEMBE absent pendant 3 mois",
+    "dennisMolembeDescription": "Recevez des mises à jour sur la blessure du joueur",
+    "announcement": "Joueur du mois des FC Flippers",
+    "playerOfTheMonth": "Fred Sommer, notre étoile montante",
+    "youthWin": "Le point sur le tournoi régional U-17",
+    "tournament": "Les U-17 du FC Flippers remportent leur premier match",
+    "coachingCourse": "Les FC Flippers annoncent un cours de formation",
+    "body": "Communiqué de presse",
+    "knightsGame": "Récapitulatif du match du FC Knights",
+    "knightsInfo": "Voici un résumé du match contre le FC Knights",
+    "youthInfo": "L'équipe de jeunes FC Flippers remporte un tournoi à 4 équipes",
+    "youth": "Première victoire en tournoi pour notre équipe académique",
+    "womensGame": "Les FC Flippers Femmes s'inclinent 2-1 face aux Brennan FC Femmes",
+    "womensDescr": "Le Brennan FC a su profiter de ses occasions",
+    "sortBy": "Trier par",
+    "choose": "Choisir des options",
+    "oldest": "Nouvelles les plus anciennes",
+    "recent": "Nouvelles récentes",
+    "titleAlphabetical": "Ordre alphabétique"
+  },
+  "newsAbout": {
+    "board": "Gestion",
+    "name": "Hans Bastian",
+    "vice": "Vice-président",
+    "name2": "Larry Somadina",
+    "manager": "Directeur général",
+    "name3": "Giovanni D'Angelo",
+    "director": "Directeur de l'Académie",
+    "name4": "Fabio Álvares",
+    "comms": "Directeur financier",
+    "name5": "Melissa Sørensen",
+    "coo": "Chef des opérations",
+    "name6": "Anthony Vaughn",
+    "cfo": "Directeur de la communication",
+    "card1Alt": "Carte 1",
+    "card2Alt": "Carte 2",
+    "card3Alt": "Carte 3",
+    "card4Alt": "Carte 4",
+    "card5Alt": "Carte 5",
+    "card6Alt": "Carte 6"
+  },
+  "match": {
+    "game": "Calendrier des Matches",
+    "upcoming": "Matchs à venir",
+    "played": "Matchs joués",
+    "date": "Date",
+    "opponent": "Adversaire",
+    "result": "Score",
+    "time": "Heure",
+    "aggregate": "Résultat",
+    "outcome": "GAGNER"
+  },
+  "stadium": {
+    "pitch": "Notre Stade"
+  },
+  "team": {
+    "roster": "Les équipes"
+  },
+  "teams": {
+    "men": "HOMMES",
+    "women": "FEMMES",
+    "academy": "ACADEMIE",
+    "junior": "U-17",
+    "coaching": "ENTRAÎNEMENT",
+    "medical": "MÉDICAL"
+  },
+  "partner": {
+    "sponsor": "Partenaires"
+  },
+  "explore": {
+    "read": "En Savoir Plus",
+    "learn": "Découvrir plus"
+  },
+  "positions": {
+    "goalkeeper": "GARDIEN",
+    "defender": "DÉFENSEUR",
+    "midfielder": "MILIEU",
+    "forward": "ATTAQUANT",
+    "coaching": "PERSONNEL D'ENTRAÎNEURS",
+    "medical": "PERSONNEL MÉDICAL"
+  },
+  "ourstadium": {
+    "text1": "Le cœur de notre club, où se jouent des matches inoubliables. Notre stade dispose d'installations ultramodernes et d'une atmosphère électrisante qui fait de chaque match une expérience inoubliable pour les supporters et les joueurs."
+  },
+  "cards": {
+    "vip": {
+      "title": "Sièges VIP",
+      "description": "Vivez le match depuis les meilleurs sièges de la salle."
+    },
+    "training": {
+      "title": "Terrain d'entraînement",
+      "description": "Le centre d'entraînement et de remise en forme de notre équipe."
+    },
+    "fanzone": {
+      "title": "Zone des Fans",
+      "description": "Profitez de l'ambiance du match avec d'autres supporters."
+    },
+    "press": {
+      "title": "Zone de Presse",
+      "description": "Lieu de rassemblement des médias pendant les matches."
+    },
+    "ourstore": "Visitez notre online Magazin"
+  },
+  "modal": {
+    "position": "Position",
+    "age": "Âge",
+    "goals": "Buts",
+    "dob": "Date de Naissance",
+    "height": "Hauteur",
+    "appearances": "Matches"
+  },
+  "searchbar": {
+    "search": "Recherche"
+  },
+  "clubVideos": {
+    "title": "Vidéos du Club",
+    "video1Title": "Devise des FC Flippers",
+    "video1Description": "L'objectif des Flippers FC est de vous inspirer",
+    "video2Title": "Un aperçu de notre académie de jeunes",
+    "video2Description": "Académie des FC Flippers: Une vue d'en haut",
+    "video3Title": "Un aperçu de notre équipe U-17 lors d'un match",
+    "video3Description": "L'équipe U-17 du FC Flippers joue un bon match au stade de l'Académie",
+    "video4Title": "Nos fans, notre fierté !!!",
+    "video4Description": "Les fans de FC Flippers viennent à nos jeux pour montrer leur soutien",
+    "video5Title": "Journée de match des femmes du FC Flippers",
+    "video5Description": "Les femmes du FC Flippers jouent un match à l'extérieur. Une vue du match",
+    "video6Title": "Une journée à l'Académie des Flippers FC",
+    "video6Description": "L'équipe de l'Académie FC Flippers s'amuse lors d'une séance d'entraînement",
+    "video7Title": "Équipe hommes des FC Flippers",
+    "video7Description": "Les hommes du FC Flippers lors d'un match à domicile",
+    "video8Title": "Journal vidéo de l'équipe FC Flippers Academy",
+    "video8Description": "L'équipe des FC Flippers dans un programme international"
+  },
+  "statuses": {
+    "headcoach": "Entraîneur principal (Hommes et U-17)",
+    "assistant": "Entraîneur adjoint (Hommes et U-17)",
+    "keeper": "entraîneur des gardiens (Hommes et U-17)",
+    "defence": "Entraîneur à la défense (Hommes et U-17)",
+    "physio": "Équipes Entraîneur d'endurance",
+    "attack": "Entraîneur d'attaque (Hommes et U-17)",
+    "women": "Entraîneur principal (femmes)",
+    "assistant2": "Entraîneur adjoint (femmes)",
+    "keeper2": "entraîneur des gardiens (femmes)",
+    "attack2": "Entraîneur d'attaque (femmes)",
+    "defence2": "Entraîneur à la défense (femmes)",
+    "tactics": " Formateur en tactique d'équipe",
+    "academy": "Entraîneur de l'équipe d'académie",
+    "assistant3": "Entraîneur adjoint de l'équipe d'académie",
+    "instructor": "Instructeur de l'équipe d'académie"
+  },
+  "health": {
+    "teamdoctor": "médecin des équipes",
+    "assistant": "Médecin assistant des équipes",
+    "physiotherapist": "équipes physiothérapeute",
+    "nutritionist": "Nutritionniste",
+    "podiatrist": "podologue",
+    "massage": "massothérapeute"
+  },
+  "medCenter": {
+    "title": "Centre Médical du Club",
+    "data": "Oups, quelque chose s'est mal passé"
+  },
+  "fixture": {
+    "match": "Pour correspondre",
+    "game": "Vers Les Résultats"
+  },
+  "showcase": {
+    "men": "L'équipe masculine des FC Flippers",
+    "women": "L'équipe féminine des FC Flippers",
+    "youth": "L'équipe de jeunes FC Flippers"
+  },
+  "registration": {
+    "articleDate": "Publié Vendredi | 06/09/2024 | 16:30",
+    "title": "Inscriptions à l'Académie FC Flippers 2024/2025",
+    "welcomeMessage": "Bienvenue à l'Académie FC Flippers pour la saison 2024/2025. Nous sommes ravis d'accueillir de nouveaux et d'anciens joueurs dans notre académie. Veuillez consulter les informations ci-dessous pour les détails sur la manière de compléter votre inscription et de rejoindre notre équipe.",
+    "focus": "Chez FC Flippers, nous nous concentrons sur le développement des jeunes talents et la promotion de l'amour du jeu. Notre académie propose un programme de formation complet et un environnement inclusif où les joueurs peuvent s'épanouir.",
+    "coaches": "Nos entraîneurs et managers sont dédiés à former les joueurs pour améliorer leur performance et leur développement mental à travers toutes les équipes qui participent au jeu. Selon les mots de notre entraîneur principal Henry Dunn.",
+    "quote": "\"Nous recherchons des enfants et des talents nouveaux, car l'avenir de notre club repose sur les jeunes talents que nous recrutons.\"",
+    "director": "GIOVANNI D'ANGELO - DIRECTEUR D'ACADÉMIE",
+    "registrationDetails": "Le personnel d'inscription est responsable de veiller à ce que les nouveaux joueurs soient enregistrés facilement et rapidement. Toutes les inscriptions se font par le biais du bureau du club. Le secrétaire du club est responsable et disponible pour les demandes de renseignements. L'inscription commence le 04/11/2024 jusqu'au 30/11/2024.",
+    "welcomeBack": "FC Flippers vous accueille de nouveau pour une toute nouvelle expérience dans le football, l'engagement et le suivi de la performance pour tous les joueurs est notre responsabilité et notre objectif.",
+    "signedBy": "Signé par : Directeur de l'Académie du Club",
+    "photo": "Source des photos: Google"
+  },
+  "aboutUs": {
+    "title": "À propos de FC Flippers",
+    "description": "FC Flippers est un club de football de premier plan dédié à l'excellence sur et en dehors du terrain. Avec une riche histoire et un engagement à développer de jeunes talents, nous nous efforçons d'être les meilleurs dans tous les aspects.",
+    "mission": "Notre mission est de favoriser l'amour du football et de fournir une formation et un soutien de premier ordre à tous les joueurs. Nous nous engageons à créer un environnement inclusif et positif pour la croissance.",
+    "vision": "Notre vision est de devenir une force de premier plan dans le football, reconnue pour notre engagement envers le sport et notre engagement indéfectible à développer la prochaine génération de stars du football.",
+    "president": "Friedrich Bastian",
+    "office": "Président FC Flippers",
+    "imageAlt": "Équipe FC Flippers"
+  },
+  "academy": {
+    "articleDate": "Publié Samedi | 21/09/2024 | 18:00",
+    "title": "L'équipe de jeunes FC Flippers remporte le tournoi des 4 équipes",
+    "opener": "Le 21 septembre 2024, la FC Flippers Youth Academy a célébré un moment historique en remportant son tout premier tournoi des 4 équipes. Cette compétition très attendue s'est déroulée au cœur de la ville, avec quatre équipes de jeunes locales se disputant le titre de champion. Les FC Flippers ont dû faire face à une concurrence acharnée de la part des autres équipes, notamment les Blue Strikers FC, les Hawks FC et les Crimson Stars FC.",
+    "firstGame": "Le tournoi a débuté par une série de matchs intenses, où chaque équipe a donné le meilleur d'elle-même pour s'emparer de la première place. Le FC Flippers a commencé fort avec une victoire convaincante 2-0 sur les Blue Strikers FC lors de son match d'ouverture. Anthony Gallagher a démontré ses remarquables compétences en inscrivant le premier but du FC Flippers d'une frappe puissante de l'extérieur de la surface. L'équipe a continué à dominer la possession du ballon et a inscrit son deuxième but par l'intermédiaire d'Chinedu Agbam, qui a converti un centre précis en une tête brillante.",
+    "secondGame": "Le deuxième match contre les Hawks FC a été très disputé. Les deux équipes ont échangé des attaques, mais la défense des Flippers a tenu bon. Au milieu de la deuxième mi-temps, Jürgen Deimler a ouvert le score d'une volée bien ajustée, donnant au FC Flippers une victoire de 1-0 et l'envoyant en finale avec le moral au beau fixe.",
+    "thirdGame": "Lors de la finale du tournoi, les FC Flippers ont affronté les Crimson Stars FC. Le match a été passionnant, les deux équipes cherchant à remporter le trophée tant convoité du championnat. Les Flippers ont une fois de plus prouvé leurs prouesses sur le terrain lorsque Ahmed Al Hassan a marqué le but de la victoire, assurant une victoire 2-1 et propulsant le FC Flippers en tête du classement.",
+    "closing": "Ce triomphe à l'arraché n'a pas seulement marqué la première victoire de la FC Flippers Youth Academy dans un tournoi, mais a également démontré le talent exceptionnel, le travail d'équipe et la résilience de l'équipe. Les joueurs, les entraîneurs et les supporters ont célébré la victoire avec fierté, marquant un jour mémorable dans l'histoire de l'académie.",
+    "comment": "\"Je suis incroyablement fier de notre équipe FC Flippers Academy qui a remporté son premier tournoi à quatre équipes ! Cette réussite témoigne du travail acharné, du dévouement et de l'esprit d'équipe dont chaque joueur a fait preuve. Il est gratifiant de voir que nos efforts portent leurs fruits, et j'ai hâte de voir ce que l'avenir réserve à ces athlètes talentueux. Un grand merci à notre équipe d'entraîneurs et à nos parents pour leur soutien indéfectible. Continuons à aller de l'avant ensemble!\"",
+    "director": "Giovanni D'Angelo - Directeur d'Académie",
+    "signedBy": "Signé par : Directeur de l'Académie du Club",
+    "photo": "Source des photos: pexels.com"
+  },
+  "womenloss": {
+    "articleDate": "Publié Vendredi | 20/09/2024 | 18:00",
+    "title": "Les FC Flippers Femmes s'inclinent 2 - 1 contre les Brennan FC Femmes",
+    "opener": "Lors d'un match de championnat très disputé, le Brennan FC Femmes a remporté la victoire contre le FC Flippers Femmes sur le score final de 2-1. Le match a mis en évidence les compétences et la détermination des deux équipes, mais c'est le Brennan FC qui a capitalisé sur ses opportunités.",
+    "firstGame": "La première mi-temps a donné le ton du match, les deux équipes faisant preuve d'agressivité et de sens tactique. Le Brennan FC a pris l'avantage à la 23e minute lorsque Daisy Morales a trouvé le fond du filet d'un tir bien placé à l'entrée de la surface. Morales, connue pour sa vitesse et sa précision, a reçu une passe parfaitement synchronisée de sa coéquipière, créant juste assez d'espace pour déclencher une frappe puissante qui n'a laissé aucune chance à la gardienne du FC Flippers, Yulia Danylo. Ce premier but a donné de l'énergie au Brennan FC, qui s'est empressé d'aller de l'avant, cherchant à accroître son avance.",
+    "secondGame": "Au fur et à mesure que le match avançait, les FC Flippers Femmes ont travaillé dur pour égaliser, se créant plusieurs occasions et mettant la pression sur la défense de Brennan FC. Leur persévérance a été récompensée à la 68e minute lorsque Heather Green a marqué un but étonnant, convertissant un rebond après un cafouillage chaotique dans la surface. La ténacité de Green et sa capacité à lire le jeu se sont révélées au grand jour, et son but égalisateur a redonné de l'espoir aux Flippers, enflammant leurs supporters dans les tribunes.",
+    "thirdGame": "Cependant, le Brennan FC n'a pas tardé à réagir. Dix minutes plus tard, Yolanda Hart a fait une entrée remarquée sur le banc. À la 78e minute, elle a profité d'une erreur défensive des Flippers, s'emparant d'un ballon libre et le plaçant devant la gardienne de but avec sang-froid. Le but de Hart s'est avéré décisif, redonnant l'avantage au Brennan FC et assurant la victoire.",
+    "closing": "Au coup de sifflet final, le Brennan FC a célébré une victoire à l'arraché, tandis que le FC Flippers a réfléchi à sa performance, déterminé à apprendre et à s'améliorer. Grâce aux performances remarquables de Morales et Hart, le Brennan FC a continué à monter en puissance dans le championnat, tandis que le FC Flippers s'est tourné vers le prochain défi.",
+    "photo": "Source des photos: pexels.com",
+    "comment": "\"Le match de ce soir contre le Brennan FC Women a été difficile pour nous. Nous nous sommes battues avec acharnement et avons fait preuve de résilience, mais nous avons échoué dans les moments cruciaux. Je suis fière de l'effort fourni par l'équipe, et nous prendrons cela comme une opportunité d'apprentissage pour revenir plus fortes. Nous nous concentrons désormais sur notre prochain match, afin de nous améliorer et d'exploiter les points positifs.\"",
+    "womenCoach": "Bertha Ramos, Entraîneur principal FC Flippers Femmes",
+    "NewsBy": "Reporter : L'équipe média/communication des FC Flippers"
+  },
+  "injury": {
+    "articleDate": "Publié Mardi | 24/09/2024 | 19:00",
+    "title": "Mise à jour sur la blessure de Dennis Molembe",
+    "description1": "Notre attaquant Dennis Molembe a subi une blessure aux ischio-jambiers et sera absent pendant environ trois mois.",
+    "description2": "La blessure est survenue lors de notre match contre FC Thunder le 24.09.2024.",
+    "description3": "Nous souhaitons à Dennis un prompt rétablissement et attendons avec impatience son retour sur le terrain.",
+    "quote": "\"Nous sommes convaincus que Dennis reviendra plus fort et continuera à contribuer à l'équipe.\"",
+    "quoteCoach": "UGO ANICHEBE - PHYSIOTHÉRAPEUTE DU CLUB",
+    "wishes": "De nombreux souhaits ont été exprimés par l'équipe, les supporters et l'encadrement. Nous tiendrons les fans au courant de l'évolution de son rétablissement.",
+    "imageAlt": "Blessure de Dennis Molembe"
+  },
+  "womenNews": {
+    "title": "Nouvelles signatures",
+    "meganLindsey": {
+      "name": "MEGAN LINDSEY",
+      "position": "GARDIEN",
+      "description": "Un gardien de 19 ans talentueux, doté de grands réflexes et d'une grande capacité à arrêter les tirs. Megan apporte une expérience précieuse et une forte présence à notre ligne défensive."
+    },
+    "tiffanyGibbs": {
+      "name": "TIFFANY ADDISON",
+      "position": "DEFENSEUR",
+      "description": "Une défenseure expérimentée, connue pour sa conscience tactique et son tacle solide. Tiffany n'a que 17 ans et elle renforcera notre ligne de fond et notre équipe."
+    },
+    "danielleVargo": {
+      "name": "AMELIA VARGO",
+      "position": "ATTAQUANT",
+      "description": "Une attaquante dynamique avec d'excellentes capacités de buteur et de la vitesse. Elle a récemment fêté son 20e anniversaire. Les prouesses offensives de Amelia nous donneront plus d'options à l'avant."
+    }
+  },
+  "share": {
+    "article": "Partager L'article"
+  },
+  "socials": {
+    "facebook": "Facebook",
+    "instagram": "instagram",
+    "linkedin": "linkedin",
+    "x": "X",
+    "youtube": "YouTube",
+    "tiktok": "Tiktok",
+    "messenger": "Partager avec des amis sur Facebook Messenger",
+    "whatsapp": "Partager avec des amis sur WhatsApp",
+    "shareFacebook": "Partager avec des amis sur Facebook",
+    "xshare": "Partager avec des amis sur X"
+  },
+  "derby": {
+    "articleDate": "Publié Dimanche | 15/09/2024 | 18:17",
+    "title": "Le très attendu derby du FC Flippers",
+    "message": "Le 30 Novembre 2024, les FC Flippers affronteront leurs rivaux de toujours, les FC Golden Stars, dans ce qui promet d'être l'un des matchs les plus électrisants de la saison. Ce derby très attendu marque le premier affrontement entre les deux équipes cette année, et l'enjeu ne pourrait être plus important. Les deux équipes ont une histoire mouvementée et des supporters passionnés, ce qui ouvre la voie à un affrontement dramatique.",
+    "focus": "Le FC Flippers, réputé pour son style de jeu agressif et rapide, aura à cœur d'affirmer sa domination sur son terrain. Avec une équipe pleine de talent et d'énergie, les Flippers sont prêts à s'imposer.",
+    "performance": "Leurs récentes performances ont montré une amélioration significative de la cohésion et de la discipline tactique, qu'ils devront mettre à profit face à leurs redoutables adversaires.",
+    "gamePlan": "De l'autre côté, le FC Golden Stars est tout aussi déterminé à remporter la victoire. Connu pour sa défense disciplinée et ses contre-attaques stratégiques, il est en pleine forme cette saison. L'unité défensive des Stars est presque impénétrable et leur capacité à capitaliser sur les erreurs de l'adversaire fait d'eux une menace constante.",
+    "coach": "L'entraîneur principal des FC Flippers, Henry Dunn, et son équipe ont insisté sur l'importance de rester concentré et d'exploiter toutes les opportunités qui se présentent au cours du match.",
+    "highlight": "Le choc entre ces deux rivaux est plus qu'un simple match - c'est une bataille pour la fierté et la suprématie. Les supporters peuvent s'attendre à un match passionnant et âprement disputé au cours duquel les deux équipes donneront le meilleur d'elles-mêmes. Au fur et à mesure que le compte à rebours avant le coup d'envoi se poursuit, l'attente d'une rencontre inoubliable se fait de plus en plus forte."
+  },
+  "announcement": {
+    "articleDate": "Publié Mercredi | 11/09/2024 | 16:45",
+    "title": "Joueur du mois de la Ligue Nationale",
+    "message": "La Ligue Nationale a annoncé que Fred Sommer a été nommé joueur du mois de Septembre 2024 ! L'attaquant a été dans une forme exceptionnelle tout au long du mois, réalisant des performances constantes et remarquables sur le terrain. Sa vision, sa créativité et son leadership ont joué un rôle crucial dans nos récentes victoires, faisant de lui un élément indispensable de l'équipe.",
+    "ability": "La capacité de Sommer à contrôler le tempo du jeu et son rythme de travail infatigable en attaque comme en défense ont été remarquables. Avec neuf buts et quatre passes décisives en septembre, ses contributions ont porté l'équipe et gagné le respect des supporters et de ses coéquipiers.",
+    "performance": "Sa performance remarquable lors de la victoire 3-2 contre l'adversaire, le FC Knights, où il a marqué un but et délivré deux passes décisives, a été l'un des points forts de son excellent mois.",
+    "dedication": "En dehors du terrain, Fred est resté un véritable professionnel, inspirant les jeunes joueurs par son dévouement et son éthique de travail. Il incarne ce que signifie être un Flipper et continue de placer la barre très haut pour ceux qui l'entourent.",
+    "acknowledgement": "Félicitations à Fred Sommer pour cet honneur bien mérité ! Nous attendons avec impatience d'autres performances incroyables alors que nous nous efforçons de remporter des succès dans les prochaines échéances. Accordons à Fred la reconnaissance qu'il mérite en tant que joueur du mois de la Ligue Nationale!",
+    "office": "Signé : FC Flippers Directeur de la communication"
+  },
+  "youthnews": {
+    "articleDate": "Publié Lundi | 02/09/2024 | 18:45",
+    "title": "Les U-17 du FC Flippers remportent leur premier match",
+    "entry": "Dans un début impressionnant du championnat régional U-17, le FC Flippers a triomphé du FC Hallings en s'imposant 3-1 dans son match d'ouverture. Cette victoire a mis en évidence la détermination et l'habileté des Flippers, donnant le ton pour le reste du tournoi.",
+    "peter": "Peter Bauer a été le premier à débloquer la situation en marquant à la 48e minute. Son but est le résultat d'un jeu bien exécuté, démontrant sa vivacité et sa capacité à saisir les moments cruciaux. Cette percée précoce a permis aux Flippers d'affirmer leur domination.",
+    "performance": "Le FC Hallings a réussi à égaliser brièvement, mais les Flippers ont rapidement repris le contrôle. Larry Torochini a réalisé une performance décisive en marquant à la 65e minute. Ce but, qui témoigne de la précision de son positionnement et de sa finition, a permis aux Flippers de reprendre l'avantage et de renforcer leur confiance.",
+    "finalGoal": "Le coup de grâce pour le FC Hallings a été donné par Simon Agbedeh, qui a marqué le troisième but à la 78e minute. Le but d'Agbedeh a non seulement scellé la victoire, mais il a également mis en évidence les prouesses offensives et la cohésion de l'équipe des Flippers.",
+    "jude": "Le succès des Flippers est dû en grande partie à leur gardien de but, Jude Ferreira. Son agilité et ses réflexes rapides ont joué un rôle crucial dans le maintien de l'avance des Flippers. Ferreira a réalisé plusieurs arrêts décisifs tout au long du match, démontrant sa capacité à lire le jeu et à répondre rapidement aux menaces. Ses performances entre les poteaux ont fourni une base solide à l'équipe et ont permis de contrecarrer les tentatives d'égalisation du FC Hallings.",
+    "overall": "Dans l'ensemble, la victoire 3-1 du FC Flippers sur le FC Hallings a été une démonstration de leur jeu stratégique et de leur brio individuel. Avec un début de championnat solide, les Flippers chercheront à s'appuyer sur cette performance tout au long du tournoi, dans le but d'assurer leur place au sommet.",
+    "comment": "\"Je suis incroyablement fier de notre équipe U17 qui a remporté une victoire à l'arraché contre le FC Hallings ! La victoire 3-1 est un début fantastique pour le championnat et reflète le dévouement et le travail d'équipe de chaque joueur. Ils ont travaillé sans relâche à l'entraînement et c'est merveilleux de voir ces efforts récompensés sur le terrain. Cette victoire n'est qu'un début, et je suis impatient de voir comment nous allons grandir et nous améliorer ensemble au fur et à mesure que le tournoi progresse!\"",
+    "u17Coach": "Henry Dunn, entraîneur des FC Flippers U-17",
+    "photo": "Source des photos: pexels.com"
+  },
+  "recap": {
+    "articleDate": "Publié Mardi | 17/09/2024 | 15:00",
+    "title": "Récapitulatif du match du FC Knights",
+    "opener": "Le 11 Septembre 2024, le FC Flippers a remporté une victoire 3-2 sur le FC Knights dans un match plein d'action et de suspense.",
+    "opponent": "Le match a commencé avec le FC Knights qui a pris l'avantage à la 21e minute lorsque Dragan Kovacic a trouvé le fond du filet après un centre bien placé, mettant ainsi la pression sur les Flippers. Les Flippers n'ont cependant pas tardé à réagir. À la 32e minute, Junho Cho s'est emparé d'un ballon libre dans la surface et a terminé sa course avec sang-froid pour ramener le score à 1-1 avant la mi-temps.",
+    "secondHalf": "La deuxième mi-temps a commencé de manière explosive pour le FC Flippers, Fred Sommer marquant juste deux minutes après la pause. Sa tête puissante sur un corner a donné aux Flippers une avance de 2-1, faisant basculer la dynamique en leur faveur. Le FC Flippers a continué à presser et, à la 59e minute, Matteo Alva a ajouté un troisième but grâce à une brillante course en solitaire, finissant à ras de terre devant le gardien des Knights pour porter l'avance à 3-1.",
+    "consolation": "Le FC Knights a eu du mal à retrouver ses marques pendant la majeure partie de la seconde mi-temps, mais il a réussi à créer l'événement dans les arrêts de jeu. Sam Briggs a inscrit un but de consolation à la 88e minute, mais il était trop tard pour changer le résultat. Les Flippers ont tenu bon et se sont imposés 3-2.",
+    "table": "Malgré la tentative de retour en force des Knights, la défense disciplinée et la finition clinique des FC Flippers se sont avérées décisives. Cette victoire a renforcé la position des FC Flippers dans le championnat, tandis que les FC Knights devront réfléchir aux occasions manquées et aux défaillances défensives.",
+    "photo": "Source des photos: pexels.com"
+  },
+  "scroll": {
+    "article": "Faire défiler vers le bas pour lire l'article",
+    "toTop": "Vers le haut",
+    "toDown": "Vers le bas"
+  },
+  "search": {
+    "placeholder": "Rechercher par nom, position, âge, apparitions...",
+    "noResults": "Aucun résultat trouvé"
+  },
+  "searchNews": {
+    "placeholder": "Recherche par titre, mot-clé...",
+    "noResults": "Aucun résultat trouvé"
+  },
+  "searchItem": {
+    "placeholder": "Trouve des produits...",
+    "noResults": "Aucun résultat trouvé"
+  },
+  "pressRelease": {
+    "articleDate": "Publié Lundi | 16/09/2024 | 15:30",
+    "title": "Les FC Flippers annoncent la formation des entraîneurs pour la saison à venir",
+    "body1": "Les FC Flippers sont ravis d'annoncer le lancement d'un cours complet d'entraînement conçu pour améliorer les compétences et les connaissances des entraîneurs actuels et futurs. Le cours se déroulera du 4 Novembre 2024 au 15 Novembre 2024, offrant une opportunité unique de développement professionnel dans le domaine de l'entraînement de football.",
+    "body2": "\n\nLe cours couvrira divers aspects de l'entraînement, y compris les tactiques avancées, le développement des joueurs et la stratégie de jeu, et sera dispensé par des professionnels expérimentés dans ce domaine. Les participants acquerront des connaissances précieuses et des compétences pratiques qui leur permettront d'améliorer leurs techniques d'entraînement et leur efficacité globale sur le terrain.",
+    "dates": "Date : 4 Novembre 2024 - 15 Novembre 2024",
+    "location": "Lieu : Centre d'entraînement des FC Flippers",
+    "registration": "Inscription : Ouvert dès maintenant et jusqu'au 20 octobre 2024",
+    "contact": "Coordonnées de contact",
+    "email": " Email : media@fcflippers.com",
+    "phone": "Téléphone : (123) 456-7890",
+    "website": "Site web : www.fcflippers.com",
+    "about": "À PROPOS DE NOUS",
+    "abouttraining": "Le FC Flippers est un club de football de premier plan qui se consacre à l'épanouissement des talents et à la promotion de l'excellence dans ce sport. Notre mission est de soutenir la croissance du football grâce à des programmes d'entraînement innovants et à l'engagement de la communauté.",
+    "signed": "Signé par : L'équipe des médias et de la communication des FC Flippers"
+  },
+  "welcome": "Online-Magazin",
+  "addToBasket": "Ajouter au panier",
+  "basket": "Votre Panier",
+  "total": "Total:",
+  "emptyBasket": "Votre panier est vide.",
+  "proceedToCheckout": "Passer caisse",
+  "cancelPurchase": "Annuler l'achat",
+  "remove": "Retirer",
+  "noProducts": "Aucun produit trouvé",
+  "openCart": "Panier ouvert",
+  "closeCart": "Minimiser",
+  "products": {
+    "1": "FC Flippers Sweat-shirt: Noir (Hommes)",
+    "2": "FC Flippers Jogger: Noir (Hommes)",
+    "3": "Maillot FC Flippers: Noir/D'or (Hommes)",
+    "1_f": "FC Flippers Sweat-shirt: Noir (Femmes)",
+    "2_f": "FC Flippers Jogger: Noir (Femmes)",
+    "3_f": "Maillot FC Flippers: Indigo (Femmes)",
+    "1_kids": "FC Flippers Sweat-shirt: Noir (Enfants)",
+    "2_kids": "FC Flippers Jogger: Noir (Enfants)",
+    "3_kids": "Maillot FC Flippers: Torquoise (Enfants)",
+    "1_ball": "Ballon d'or dédicacé des FC Flippers",
+    "2_ball": "Ballon d'argent personnalisé FC Flippers",
+    "3_hat": "Casquette FC Flippers personnalisée: Noir",
+    "4_gloves": "Fieldplayer Gants Unisexe: Noir/Rouge",
+    "5_wallet": "FC Flippers Portefeuille En Cuir: Noir",
+    "6_neckpouch": "Pochette tour de cou FC Flippers : Rouge",
+    "7_keyring": "Porte-clés Personnalisé FC Flippers",
+    "8_hat2": "Casquette FC Flippers personnalisée: Blanc",
+    "9_hat3": "Casquette FC Flippers personnalisée: Rouge/Bleu",
+    "10_shirt": "T-shirt FC Flippers (Hommes): Off White",
+    "11_jacket": "FC FLippers Bomber Veste (Femmes): Noir",
+    "12_beltbag": "Unisexe FC Flippers Ceinture Sac: Gris",
+    "13_shirt2": "T-Shirt personnalisé FC Flippers (Homme): Noir",
+    "14_kids_wear": "Personnalisé Kids Essential (Enfants): Rouge",
+    "15_shirtf": "T-Shirt personnalisé FC Flippers (Femmes): Blanc",
+    "16_jacket_men": "Veste FC Flippers (Hommes): Noir",
+    "17_vest": "Gilet en duvet léger FC Flippers (Femmes): Noir",
+    "18_coat": "Veste d'hiver FC Flippers (Enfants): Marine",
+    "19_bootbag": "Sac à bottes à rayures FC Flippers : Rouge",
+    "20_bucket_hat": "Chapeau Bucket FC Flippers : Marine",
+    "21_bottle": "FC Flippers Bouteille de Chill Noir et Or: Noir"
+  },
+  "checkout": {
+    "checkoutPage": "Caisse",
+    "basket": "Articles dans votre panier",
+    "empty": "Votre panier est vide",
+    "total": "total",
+    "processing": "Préparation...",
+    "cancel": "Annuler la commande",
+    "successMessage": "Merci! Votre achat a été effectué avec succès. Vous recevrez un courriel de confirmation sous peu!",
+    "completePurchase": "Continuer l’achat",
+    "itemAddedToCart": "Article ajouté au panier",
+    "size": "Taille"
+  },
+  "modals": {
+    "material": "Matériel: 100% recyclé",
+    "quantity": "Quantité:",
+    "sizes": "Tailles",
+    "size": "Taille",
+    "selectSize": "Sélectionner la taille",
+    "ball": "Ballon",
+    "pouch": "Pochette",
+    "wallet": "Portefeuille",
+    "bag": "Ceinture Sac",
+    "keyring": "Porte-clés: Universel",
+    "bootbag": "Sac à bottes",
+    "bottle": "Bouteille",
+    "universal": "Universel"
+  },
+  "relatedNews": {
+    "related": "articles similaires"
+  },
+  "tax": {
+    "vatinc": "(TTC)"
+  },
+  "cart": {
+    "expand": "Étendre",
+    "minimize": "Minimiser"
+  },
+  "qbutton": {
+    "increase": "Augmenter",
+    "decrease": "Diminuer"
+  },
+  "payment": {
+    "Information": "Informations sur le paiement",
+    "NameOnCard": "Nom sur la carte",
+    "cardNamePlaceholder": "Saisir le nom sur la carte",
+    "cardNumber": "Numéro de carte",
+    "cardNumberPlaceholder": "0000-0000-0000-0000",
+    "expiryDate": "Date d'expiration",
+    "cvv": "123",
+    "error": "Veuillez remplir tous les champs",
+    "nameTitle": "Prénom et nom de famille requis",
+    "placeholder": "Veuillez saisir une date d'expiration valide au format MM/AA",
+    "cardNumberTitle": "Veuillez vérifier le format souhaité",
+    "cvvTitle": "Nécessaire pour la correspondance avec le format à 3 chiffres Exemple",
+    "errorName": "Veuillez saisir le nom figurant sur la carte",
+    "errorCardNumber": "Veuillez saisir le numéro de carte correct à 16 chiffres",
+    "errorExpiryDate": "Veuillez indiquer une date d'expiration valable au format MM/AA",
+    "errorInvalidYear": "L'année d'expiration n'est pas valable",
+    "errorExpiredCard": "Désolé, votre carte a expiré ! Veuillez ajouter une carte valide",
+    "errorCVV": "Veuillez saisir le format CVV/CVC correct"
+  },
+  "checkoutCart": {
+    "remove": "Retirer cet article du panier"
+  },
+  "faq": {
+    "header": "Questions fréquemment posées"
+  },
+  "training": {
+    "title": "Horaire d'entraînement",
+    "day": "Jour",
+    "time": "Heure",
+    "location": "Lieu",
+    "noTraining": "Aucun calendrier de formation n'est disponible."
+  },
+  "video": {
+    "close": "Fermer Vidéo"
+  },
+  "social": {
+    "follow": "Suivez-nous sur"
+  },
+  "newsletter": {
+    "header": "Bulletin d'information",
+    "select": "Sélectionner le bulletin",
+    "news": "Nouvelles",
+    "offers": "Offres",
+    "events": "Evénements",
+    "email": "Adresse électronique",
+    "dataProtection": "Les FC Flippers traitent vos données conformément à notre politique de protection des données. Nos lettres d'information peuvent être adaptées à vos besoins personnels. En vous abonnant à une newsletter, vous acceptez que nous traitions et amalgamions vos interactions avec les bulletin d'information et, le cas échéant, votre comportement de navigation et d'achat sur notre site web, notre appli et dans notre boutique en ligne. Si vous êtes mineur, vous confirmez avec votre inscription que vous avez le consentement de votre tuteur légal pour recevoir la bulletin d'information. Vous pouvez révoquer votre consentement à tout moment, avec effet dans le futur, par e-mail ou via le lien figurant dans la bulletin d'information.",
+    "info": "Plus d'informations",
+    "subscribe": "S'abonner",
+    "sending": "Envoi...",
+    "success": "Merci de vous être abonné à notre bulletin d'information!",
+    "error": "Veuillez fournir une adresse électronique valide",
+    "error2": "Veuillez sélectionner un bulletin d'information!",
+    "dropTitle": "Soyez toujours tactique avec les bulletin d'information de FC Flippers !",
+    "ourNewsletter": "Nos bulletin d'information vous informent régulièrement sur les événements actuels et les offres attrayantes de FC Flippers dans votre boîte de réception.",
+    "clubNewsletter": "Bulletin du club:",
+    "info1": "Dernière information",
+    "info2": "Interviews et vidéos exclusives",
+    "info3": "Des concours de prix passionnants",
+    "info4": "Informations et services relatifs aux billets",
+    "info5": "Offres de notre Fan Shop et de nos partenaires",
+    "storeNewsletter": "Bulletin d'information du magasin:",
+    "storeInfo1": "Dernières offres et réductions exclusives",
+    "storeInfo2": "Informations sur les nouvelles collections et les nouveaux produits",
+    "storeInfo3": "Produits événementiels et en édition limitée pour les célébrations et les événements marquants",
+    "storeInfo4": "L'offre du jour et le fait marquant de la semaine",
+    "storeInfo5": "Offres de nos partenaires",
+    "expand": "Agrandir pour en savoir plus",
+    "collapse": "Minimiser"
+  },
+  "membership": {
+    "title": "Formulaire d'adhésion à FC Flippers",
+    "titles": "Remplir ce champ",
+    "name": "Nom",
+    "email": "Courrier électronique",
+    "phone": "Téléphone",
+    "age": "Âge",
+    "position": "Position préférée",
+    "positionSelect": "Sélectionner la position",
+    "forward": "Attaque",
+    "midfielder": "Milieu",
+    "defender": "Défense",
+    "goalkeeper": "Gardien",
+    "picture": "Image de profil",
+    "chooseFile": "Choisir un fichier",
+    "noFileChosen": "Aucun fichier choisi",
+    "submit": "Envoyer",
+    "sending": "Envoi...",
+    "statusMessage": "Merci beaucoup ! Le formulaire a été soumis avec succès. Notre équipe vous contactera dans les plus brefs délais.",
+    "fileError": "Veuillez choisir une photo de profil avant de soumettre votre candidature!",
+    "disclaimer": "Clause de non-responsabilité",
+    "content": "En soumettant ce formulaire d'adhésion, vous reconnaissez et acceptez que l'adhésion aux FC Flippers est sujette à approbation sur la base des critères d'éligibilité établis par le club. L'envoi de ce formulaire ne garantit pas l'adhésion. FC Flippers se réserve le droit d'examiner, d'accepter ou de refuser toute demande à sa discrétion. Les avantages, les conditions et les modalités d'adhésion peuvent être modifiés sans préavis. Toute information personnelle fournie dans ce formulaire sera utilisée uniquement à des fins d'adhésion et conformément à notre politique de confidentialité. Les membres sont tenus de respecter le code de conduite et le règlement du club. La violation des règles du club peut entraîner la suspension ou la résiliation de l'adhésion."
+  },
+  "delivery": {
+    "title": "Expédition et livraison",
+    "selectRegion": "Sélectionnez votre région",
+    "usaRegion": "États-Unis",
+    "europeRegion": "Europe",
+    "asiaRegion": "Asie",
+    "restOfTheWorldRegion": "Reste du monde",
+    "usa": "La livraison aux États-Unis prend de 7 à 10 jours ouvrables. L'heure d'arrivée prévue peut varier en fonction du lieu.",
+    "europe": "La livraison en Europe prend de 5 à 7 jours ouvrables. L'heure d'arrivée prévue peut varier en fonction du lieu.",
+    "asia": "La livraison en Asie prend de 10 à 15 jours ouvrables. L'heure d'arrivée prévue peut varier en fonction du lieu.",
+    "restOfTheWorld": "Pour les autres régions, le délai de livraison est de 10 à 20 jours ouvrables. L'heure d'arrivée prévue peut varier en fonction du lieu.",
+    "result": "Informations sur la livraison",
+    "shipping": "Vous trouverez ci-dessous des informations détaillées sur nos lieux d'expédition et nos délais de livraison."
+  },
+  "clubHonors": {
+    "honors": "Titres du club"
+  },
+  "returns": {
+    "title": "Retours",
+    "order": "À propos de votre commande",
+    "returnContent": "Vérifiez le contenu de votre commande, suivez le statut de l'expédition ou demandez un échange en nous envoyant un e-mail. Nous vous invitons à prendre rendez-vous avec un conseiller clientèle FC Flippers en utilisant les coordonnées figurant sur notre site web pour un entretien personnalisé concernant les commandes, l'expédition, la livraison et les retours.",
+    "request": "Demande de retour",
+    "info1": "Vous n'êtes pas satisfait d'un article acheté et vous souhaitez le retourner ? Ne vous inquiétez pas ! Vous pouvez entamer la procédure de retour gratuit en insérant votre numéro de commande ci-dessous",
+    "info2": "Avant de soumettre la demande de retour, veuillez consulter notre Centre d'aide pour vous assurer que le produit entre dans les catégories soumises aux politiques de retour telles que détaillées dans la QFP appropriée.",
+    "orderNumberLabel": "Numéro de commande",
+    "reasonLabel": "Motif du retour",
+    "emailLabel": "Adresse électronique",
+    "submit": "Envoyer",
+    "submitting": "Envoi...",
+    "formError": "Veuillez remplir tous les champs.",
+    "formSuccess": "Merci beaucoup ! Votre demande de retour a été soumise!",
+    "initiate": "Pour lancer la procédure de retour, veuillez indiquer le numéro de commande et l'adresse électronique associée. La demande de retour ne sera possible que dans un délai de 30 jours à compter de la date de la commande, applicable à tous les produits à l'exception des produits personnalisés.",
+    "return": "Retours",
+    "refund": "Remboursements",
+    "open": "Agrandir pour en savoir plus",
+    "close": "Minimiser"
+  },
+  "toolTip": {
+    "open": "Recherche gratuite",
+    "close": "Fermer"
+  }
+}

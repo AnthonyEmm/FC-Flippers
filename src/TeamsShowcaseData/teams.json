@@ -1,0 +1,82 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Men",
+        "de": "Männer",
+        "fr": "Hommes",
+        "es": "Hombres",
+        "it": "Uomini"
+      },
+      "description": {
+        "en": "FC Flippers Men's team",
+        "de": "FC Flippers Männermannschaft",
+        "fr": "Équipe masculine des FC Flippers",
+        "es": "Equipo masculino de FC Flippers",
+        "it": "Squadra maschile FC Flippers"
+      },
+      "image": "/male_team.jpg",
+      "alt": {
+        "en": "Team 1",
+        "de": "Team 1",
+        "fr": "Équipe 1",
+        "es": "Equipo 1",
+        "it": "Squadra 1"
+      },
+      "link": "/team/mens"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Women",
+        "de": "Frauen",
+        "fr": "Femmes",
+        "es": "Mujeres",
+        "it": "Donne"
+      },
+      "description": {
+        "en": "FC Flippers Women's team",
+        "de": "FC Flippers Frauenmannschaft",
+        "fr": "Équipe féminine des FC Flippers",
+        "es": "Equipo femenino de FC Flippers",
+        "it": "Squadra femminile FC Flippers"
+      },
+      "image": "/female.jpg",
+      "alt": {
+        "en": "Team 2",
+        "de": "Team 2",
+        "fr": "Équipe 2",
+        "es": "Equipo 2",
+        "it": "Squadra 2"
+      },
+      "link": "/team/womens"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "U-17",
+        "de": "U-17",
+        "fr": "U-17",
+        "es": "U-17",
+        "it": "U-17"
+      },
+      "description": {
+        "en": "FC Flippers youth team",
+        "de": "FC Flippers Jugendmannschaft",
+        "fr": "Équipe de jeunes FC Flippers",
+        "es": "Equipo juvenil de FC Flippers",
+        "it": "Squadra giovanile FC Flippers"
+      },
+      "image": "/u17_team.jpg",
+      "alt": {
+        "en": "Team 3",
+        "de": "Team 3",
+        "fr": "Équipe 3",
+        "es": "Equipo 3",
+        "it": "Squadra 3"
+      },
+      "link": "/team/u17"
+    }
+  ]
+}

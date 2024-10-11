@@ -1,0 +1,52 @@
+{
+  "schedules": {
+    "men": [
+      {
+        "day": "Monday",
+        "time": "6:00 PM - 8:00 PM",
+        "location": "Main Field"
+      },
+      {
+        "day": "Wednesday",
+        "time": "6:00 PM - 8:00 PM",
+        "location": "Main Field"
+      }
+    ],
+    "women": [
+      {
+        "day": "Tuesday",
+        "time": "6:00 PM - 8:00 PM",
+        "location": "Secondary Field"
+      },
+      {
+        "day": "Thursday",
+        "time": "6:00 PM - 8:00 PM",
+        "location": "Secondary Field"
+      }
+    ],
+    "u17": [
+      {
+        "day": "Friday",
+        "time": "5:00 PM - 7:00 PM",
+        "location": "Training Ground"
+      },
+      {
+        "day": "Saturday",
+        "time": "10:00 AM - 12:00 PM",
+        "location": "Training Ground"
+      }
+    ],
+    "academy": [
+      {
+        "day": "Thursday",
+        "time": "4:00 PM - 6:00 PM",
+        "location": "Academy Field"
+      },
+      {
+        "day": "Saturday",
+        "time": "9:00 AM - 11:00 AM",
+        "location": "Academy Field"
+      }
+    ]
+  }
+}

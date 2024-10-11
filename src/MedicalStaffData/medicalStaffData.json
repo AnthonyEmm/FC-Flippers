@@ -1,0 +1,46 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "firstname": "GORDON",
+      "lastname": "GRAHAM",
+      "status": "teamdoctor",
+      "image": "/Team_doctor.jpg"
+    },
+    {
+      "id": 2,
+      "firstname": "PAULA",
+      "lastname": "WALDRUM",
+      "status": "assistant",
+      "image": "/assistant_doctor.jpg"
+    },
+    {
+      "id": 3,
+      "firstname": "UGO",
+      "lastname": "ANICHEBE",
+      "status": "physiotherapist",
+      "image": "/physiotherapist.jpg"
+    },
+    {
+      "id": 4,
+      "firstname": "DEBBY",
+      "lastname": "MCFALLON",
+      "status": "nutritionist",
+      "image": "/nutritionist.jpg"
+    },
+    {
+      "id": 5,
+      "firstname": "DAVID",
+      "lastname": "HANSON",
+      "status": "podiatrist",
+      "image": "/Podiatrist.jpg"
+    },
+    {
+      "id": 6,
+      "firstname": "ELEANOR",
+      "lastname": "GOLDMANN",
+      "status": "massage",
+      "image": "/massage.jpg"
+    }
+  ]
+}

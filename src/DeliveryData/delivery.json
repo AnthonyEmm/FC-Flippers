@@ -1,0 +1,15 @@
+{
+  "delivery": {
+    "title": "Delivery Information",
+    "selectRegion": "Select your region",
+    "usaRegion": "USA",
+    "europeRegion": "Europe",
+    "asiaRegion": "Asia",
+    "restOfTheWorldRegion": "Rest of the World",
+    "usa": "Delivery to USA takes 7-10 business days.",
+    "europe": "Delivery to Europe takes 5-7 business days.",
+    "asia": "Delivery to Asia takes 10-15 business days.",
+    "restOfTheWorld": "Delivery to other regions takes 10-20 business days.",
+    "result": "Delivery Information"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "played": [
+    {
+      "date": "28-09-2024",
+      "opponent": "Highlands FC",
+      "opponentImage": "/club-logo2.png",
+      "score": "1 - 0",
+      "outcome": "WIN"
+    },
+    {
+      "date": "26-09-2024",
+      "opponent": "FC Thunder",
+      "opponentImage": "/thunder.png",
+      "score": "2 - 1",
+      "outcome": "WIN"
+    },
+    {
+      "date": "24-09-2024",
+      "opponent": "Pason FC",
+      "opponentImage": "/Pason_fc.png",
+      "score": "4 - 0",
+      "outcome": "WIN"
+    },
+    {
+      "date": "18-09-2024",
+      "opponent": "FC Warriors",
+      "opponentImage": "/warriors.png",
+      "score": "3 - 0",
+      "outcome": "WIN"
+    },
+    {
+      "date": "14-09-2024",
+      "opponent": "Kings FC",
+      "opponentImage": "/kings.png",
+      "score": "1 - 0",
+      "outcome": "WIN"
+    },
+    {
+      "date": "11-09-2024",
+      "opponent": "FC Knights",
+      "opponentImage": "/knights.png",
+      "score": "3 - 2",
+      "outcome": "WIN"
+    },
+    {
+      "date": "07-09-2024",
+      "opponent": "FC Trojans 1953",
+      "opponentImage": "/trojans.png",
+      "score": "1 - 0",
+      "outcome": "WIN"
+    },
+    {
+      "date": "02-09-2024",
+      "opponent": "Keithston FC",
+      "opponentImage": "/club-logo.png",
+      "score": "2 - 1",
+      "outcome": "WIN"
+    }
+  ],
+  "upcoming": [
+    {
+      "date": "13-10-2024",
+      "opponent": "FC Eagles",
+      "opponentImage": "/eagles.png",
+      "time": "18:00",
+      "outcome": "--"
+    },
+    {
+      "date": "17-10-2024",
+      "opponent": "FC Fire",
+      "opponentImage": "/fc_fire.png",
+      "time": "20:00",
+      "outcome": "--"
+    },
+    {
+      "date": "20-10-2024",
+      "opponent": "Gothenburg SC",
+      "opponentImage": "/gothenburg.png",
+      "time": "19:00",
+      "outcome": "--"
+    },
+    {
+      "date": "23-10-2024",
+      "opponent": "Kreslin FC ",
+      "opponentImage": "/sunrise.png",
+      "time": "21:00",
+      "outcome": "--"
+    },
+    {
+      "date": "28-10-2024",
+      "opponent": "Brennan FC",
+      "opponentImage": "/bussik.png",
+      "time": "18:00",
+      "outcome": "--"
+    },
+    {
+      "date": "30-11-2024",
+      "opponent": "FC Golden Stars",
+      "opponentImage": "/gold.png",
+      "time": "17:00",
+      "outcome": "--"
+    },
+    {
+      "date": "06-12-2024",
+      "opponent": "Reso FC",
+      "opponentImage": "/reso_fc.png",
+      "time": "16:00",
+      "aggregate": "--"
+    },
+    {
+      "date": "13-12-2024",
+      "opponent": "FC Grands",
+      "opponentImage": "/grands_fc.png",
+      "time": "18:00",
+      "aggregate": "--"
+    },
+    {
+      "date": "20-12-2024",
+      "opponent": "Redcliff FC",
+      "opponentImage": "/redcliff_fc.png",
+      "time": "20:00",
+      "aggregate": "--"
+    }
+  ]
+}

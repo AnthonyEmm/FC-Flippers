@@ -1,0 +1,79 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Megan Lindsey",
+        "de": "Megan Lindsey",
+        "fr": "Megan Lindsey",
+        "es": "Megan Lindsey",
+        "it": "Megan Lindsey"
+      },
+      "position": {
+        "en": "Goalkeeper",
+        "de": "Torwart",
+        "fr": "Gardienne",
+        "es": "Portera",
+        "it": "Portiere"
+      },
+      "description": {
+        "en": "A talented 19 year old goalkeeper with great reflexes and shot-stopping ability. Megan brings valuable experience and a strong presence to our defensive line.",
+        "de": "Eine talentierte 19-jährige Torwart mit großartigen Reflexen und einer starken Fähigkeit, Schüsse abzuwehren. Megan bringt wertvolle Erfahrung und eine starke Präsenz in unsere Abwehrreihe.",
+        "fr": "Une gardienne talentueuse de 19 ans avec de bons réflexes et une capacité à stopper les tirs. Megan apporte une expérience précieuse et une forte présence à notre ligne défensive.",
+        "es": "Una portera talentosa de 19 años con grandes reflejos y capacidad para detener disparos. Megan aporta una valiosa experiencia y una fuerte presencia a nuestra línea defensiva.",
+        "it": "Un portiere talentuoso di 19 anni con grandi riflessi e capacità di fermare i tiri. Megan porta un'esperienza preziosa e una forte presenza alla nostra linea difensiva."
+      },
+      "image": "/signing1.png"
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Tiffany Gibbs",
+        "de": "Tiffany Gibbs",
+        "fr": "Tiffany Gibbs",
+        "es": "Tiffany Gibbs",
+        "it": "Tiffany Gibbs"
+      },
+      "position": {
+        "en": "Defender",
+        "de": "Verteidigerin",
+        "fr": "Défenseuse",
+        "es": "Defensora",
+        "it": "Difensore"
+      },
+      "description": {
+        "en": "An experienced defender known for her tactical awareness and strong tackling. Tiffany is just 17 years old and will strengthen our backline and add depth to our squad.",
+        "de": "Eine erfahrene Verteidigerin, bekannt für ihr taktisches Bewusstsein und starke Zweikampfführung. Tiffany ist erst 17 Jahre alt und wird unsere Abwehr verstärken und der Mannschaft mehr Tiefe verleihen.",
+        "fr": "Une défenseuse expérimentée, connue pour sa conscience tactique et ses solides tacles. Tiffany n'a que 17 ans et renforcera notre ligne défensive tout en ajoutant de la profondeur à notre équipe.",
+        "es": "Una defensora experimentada, conocida por su conciencia táctica y su habilidad para realizar entradas fuertes. Tiffany tiene solo 17 años y fortalecerá nuestra línea defensiva, agregando profundidad a nuestra plantilla.",
+        "it": "Una difensore esperta, nota per la sua consapevolezza tattica e i contrasti duri. Tiffany ha solo 17 anni e rafforzerà la nostra linea difensiva aggiungendo profondità alla squadra."
+      },
+      "image": "/signing3.png"
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Danielle Vargo",
+        "de": "Danielle Vargo",
+        "fr": "Danielle Vargo",
+        "es": "Danielle Vargo",
+        "it": "Danielle Vargo"
+      },
+      "position": {
+        "en": "Forward",
+        "de": "Angrifferin",
+        "fr": "Attaquante",
+        "es": "Delantera",
+        "it": "Attaccante"
+      },
+      "description": {
+        "en": "A dynamic forward with excellent goal-scoring ability and speed. Recently celebrated her 20th birthday. Danielle's attacking prowess will provide us with more options up front.",
+        "de": "Eine dynamische Stürmerin mit hervorragender Torquote und Geschwindigkeit. Kürzlich feierte sie ihren 20. Geburtstag. Danielles Offensivstärke wird uns mehr Optionen im Angriff bieten.",
+        "fr": "Une attaquante dynamique avec une excellente capacité à marquer des buts et de la vitesse. Elle a récemment fêté ses 20 ans. Le talent offensif de Danielle nous offrira plus d'options en attaque.",
+        "es": "Una delantera dinámica con excelente capacidad para marcar goles y velocidad. Recientemente celebró su 20º cumpleaños. La capacidad ofensiva de Danielle nos brindará más opciones en la delantera.",
+        "it": "Un attaccante dinamico con eccellente abilità di segnare e velocità. Ha recentemente festeggiato il suo 20º compleanno. L'abilità offensiva di Danielle ci fornirà più opzioni in attacco."
+      },
+      "image": "/signing2.png"
+    }
+  ]
+}

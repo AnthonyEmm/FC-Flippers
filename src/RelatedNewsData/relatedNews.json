@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Major Changes to our women squad",
+    "imageUrl": "/flippers-women.webp",
+    "link": "/news/womens-team-update/major-changes-to-our-female-squad"
+  },
+  {
+    "id": 2,
+    "title": "Clash of the derby 2024/2025",
+    "imageUrl": "/derby2.webp",
+    "link": "/news/clash-of-the-derby-2024-2025"
+  },
+  {
+    "id": 3,
+    "title": "FC Flippers academy registrations 2024/2025",
+    "imageUrl": "/Coach.webp",
+    "link": "/news/2024-2025-academy-registration"
+  },
+  {
+    "id": 4,
+    "title": "Regional U-17 tournament update",
+    "imageUrl": "/pic_slide.jpg",
+    "link": "/news/u17-team-wins-first-match"
+  },
+  {
+    "id": 5,
+    "title": "FC Flippers player of the month",
+    "imageUrl": "/men13.jpg",
+    "link": "/news/fred-sommer-player-of-the-month"
+  },
+  {
+    "id": 6,
+    "title": "FC Flippers Announces Coaching Course",
+    "imageUrl": "/tactics-board.webp",
+    "link": "/news/fc-flippers-announces-coaching-course"
+  },
+  {
+    "id": 7,
+    "title": "FC Flippers Youth Team wins 4 teams tournament",
+    "imageUrl": "/flippers.jpg",
+    "link": "/news/youth-team-wins-4-team-tournament-2024"
+  }
+]

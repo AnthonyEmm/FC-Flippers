@@ -1,0 +1,64 @@
+{
+  "products": [
+    { "id": 1, "key": "1", "price": 19.99, "image": "/mens-new.png" },
+    { "id": 2, "key": "2", "price": 16.99, "image": "/sweat-men.webp" },
+    { "id": 3, "key": "3", "price": 28.99, "image": "/jersey-men.png" },
+    { "id": 4, "key": "1_f", "price": 13.99, "image": "/female-shirt.png" },
+    { "id": 5, "key": "2_f", "price": 18.99, "image": "/sweat-female.jpg" },
+    { "id": 6, "key": "3_f", "price": 24.99, "image": "/jersey-women.png" },
+    { "id": 7, "key": "1_kids", "price": 20.99, "image": "/kids.png" },
+    { "id": 8, "key": "2_kids", "price": 14.99, "image": "/kids-pants.jpg" },
+    { "id": 9, "key": "3_kids", "price": 18.99, "image": "/jersey-kids.png" },
+    { "id": 10, "key": "1_ball", "price": 24.99, "image": "/gold-ball.png" },
+    { "id": 11, "key": "2_ball", "price": 12.99, "image": "/FBall.png" },
+    { "id": 12, "key": "3_hat", "price": 15.99, "image": "/hat.png" },
+    { "id": 13, "key": "4_gloves", "price": 8.99, "image": "/glove.png" },
+    {
+      "id": 14,
+      "key": "5_wallet",
+      "price": 22.99,
+      "image": "/wallet2.png"
+    },
+    { "id": 15, "key": "6_neckpouch", "price": 24.99, "image": "/wallet1.png" },
+    { "id": 16, "key": "7_keyring", "price": 8.99, "image": "/ring.png" },
+    { "id": 17, "key": "8_hat2", "price": 15.99, "image": "/hat2.png" },
+    { "id": 18, "key": "9_hat3", "price": 15.99, "image": "/hat3.png" },
+    { "id": 19, "key": "10_shirt", "price": 26.99, "image": "/T-shirt.png" },
+    {
+      "id": 20,
+      "key": "11_jacket",
+      "price": 49.99,
+      "image": "/jacket-new.png"
+    },
+    { "id": 21, "key": "12_beltbag", "price": 28.99, "image": "/pouch.png" },
+    { "id": 22, "key": "13_shirt2", "price": 26.99, "image": "/shirt2.png" },
+    {
+      "id": 23,
+      "key": "14_kids_wear",
+      "price": 16.99,
+      "image": "/kids_wear.png"
+    },
+    {
+      "id": 24,
+      "key": "15_shirtf",
+      "price": 22.99,
+      "image": "/shirt_woman.png"
+    },
+    {
+      "id": 25,
+      "key": "16_jacket_men",
+      "price": 86.99,
+      "image": "/jacket_men.png"
+    },
+    { "id": 26, "key": "17_vest", "price": 96.99, "image": "/vest.png" },
+    { "id": 27, "key": "18_coat", "price": 86.99, "image": "/coat.png" },
+    { "id": 28, "key": "19_bootbag", "price": 11.99, "image": "/bootbag.png" },
+    {
+      "id": 29,
+      "key": "20_bucket_hat",
+      "price": 40.99,
+      "image": "/bucket_hat.png"
+    },
+    { "id": 30, "key": "21_bottle", "price": 20.99, "image": "/bottle.png" }
+  ]
+}

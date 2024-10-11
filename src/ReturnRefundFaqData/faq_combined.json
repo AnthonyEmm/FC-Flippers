@@ -1,0 +1,147 @@
+{
+  "en": {
+    "faq": {
+      "header": "Returns & Refunds",
+      "returns_refunds": [
+        {
+          "question": "What is your return policy?",
+          "answer": "We accept returns within 30 days from the order date, as long as the item is in its original condition."
+        },
+        {
+          "question": "How do I initiate a return?",
+          "answer": "To initiate a return, contact our support team via 24/7 Live Chat with your order details or fill out the free online return form."
+        }
+      ],
+      "refund_policy": [
+        {
+          "question": "What is your refund policy?",
+          "answer": "Refunds are processed within 5-10 business days after receiving the returned item(s). The refund will be issued to the original payment method."
+        },
+        {
+          "question": "How do initiate a refund?",
+          "answer": "You can make a refund request by sending an email to refunds@fcflippers.com stating the item order number and the name associated with the order."
+        },
+        {
+          "question": "How long does it take to receive a refund?",
+          "answer": "Refunds will be processed within 5-10 business days of receiving your refund request."
+        }
+      ]
+    }
+  },
+  "de": {
+    "faq": {
+      "header": "Rückgaben & Rückerstattungen",
+      "returns_refunds": [
+        {
+          "question": "Was ist Ihre Rückgabepolitik?",
+          "answer": "Wir akzeptieren Rücksendungen innerhalb von 30 Tagen nach dem Bestelldatum, vorausgesetzt, der Artikel befindet sich in seinem ursprünglichen Zustand."
+        },
+        {
+          "question": "Wie starte ich eine Rückgabe?",
+          "answer": "Um eine Rücksendung zu veranlassen, kontaktieren Sie unser Support-Team über 24/7-Live-Chat mit Ihren Bestelldaten oder füllen Sie das kostenlose Online-Rücksendeformular aus."
+        }
+      ],
+      "refund_policy": [
+        {
+          "question": "Was ist Ihre Rückerstattungspolitik?",
+          "answer": "Rückerstattungen werden innerhalb von 5-10 Werktagen nach Erhalt der zurückgesendeten Artikel bearbeitet. Die Rückerstattung erfolgt auf die ursprüngliche Zahlungsmethode."
+        },
+        {
+          "question": "Wie kann ich eine Erstattung veranlassen?",
+          "answer": "Sie können eine Rückerstattung beantragen, indem Sie eine E-Mail an refunds@fcflippers.com schicken und die Bestellnummer des Artikels und den Namen, der mit der Bestellung verbunden ist, angeben."
+        },
+        {
+          "question": "Wie lange dauert es, eine Rückerstattung zu erhalten?",
+          "answer": "Rückerstattungen werden innerhalb von 5-10 Werktagen nach Eingang Ihres Erstattungsantrags bearbeitet."
+        }
+      ]
+    }
+  },
+  "fr": {
+    "faq": {
+      "header": "Retours & Remboursements",
+      "returns_refunds": [
+        {
+          "question": "Quelle est votre politique de retour ?",
+          "answer": "Nous n'acceptons les retours que dans les 30 jours suivant la date de la commande, à condition que l'article soit en bon état."
+        },
+        {
+          "question": "Comment initier un retour ?",
+          "answer": "Pour effectuer un retour, contactez notre équipe d'assistance par chat en direct 24/7 en indiquant les détails de votre commande ou remplissez le formulaire de retour gratuit en ligne."
+        }
+      ],
+      "refund_policy": [
+        {
+          "question": "Quelle est votre politique de remboursement ?",
+          "answer": "Les remboursements sont traités sous 5 à 10 jours ouvrables après réception de l'article retourné. Le remboursement sera effectué sur le mode de paiement initial."
+        },
+        {
+          "question": "Comment initier un remboursement ?",
+          "answer": "Vous pouvez faire une demande de remboursement en envoyant un e-mail à refunds@fcflippers.com en indiquant le numéro de commande de l'article et le nom associé à la commande."
+        },
+        {
+          "question": "Combien de temps faut-il pour recevoir un remboursement ?",
+          "answer": "Les remboursements seront traités dans les 5 à 10 jours ouvrables suivant la réception de votre demande de remboursement."
+        }
+      ]
+    }
+  },
+  "es": {
+    "faq": {
+      "header": "Devoluciones y Reembolsos",
+      "returns_refunds": [
+        {
+          "question": "¿Cuál es su política de devoluciones?",
+          "answer": "Aceptamos devoluciones en un plazo de 30 días a partir de la fecha del pedido, siempre que el artículo esté en buen estado."
+        },
+        {
+          "question": "¿Cómo puedo iniciar una devolución?",
+          "answer": "Para iniciar una devolución, póngase en contacto con nuestro equipo de asistencia a través del chat en directo 24 horas al día, 7 días a la semana, con los datos de su pedido o rellene el formulario de devolución gratuito en línea."
+        }
+      ],
+      "refund_policy": [
+        {
+          "question": "¿Cuál es su política de reembolso?",
+          "answer": "Los reembolsos se procesan dentro de 5 a 10 días hábiles después de recibir el/los artículo(s) devueltos. El reembolso se emitirá en el método de pago original."
+        },
+        {
+          "question": "¿Cómo se inicia un reembolso?",
+          "answer": "Puede realizar una solicitud de reembolso enviando un correo electrónico a refunds@fcflippers.com indicando el número de pedido del artículo y el nombre asociado al pedido."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en recibir un reembolso?",
+          "answer": "Los reembolsos se tramitarán en un plazo de 5 a 10 días laborables a partir de la recepción de su solicitud de reembolso."
+        }
+      ]
+    }
+  },
+  "it": {
+    "faq": {
+      "header": "Resi e Rimborsi",
+      "returns_refunds": [
+        {
+          "question": "Qual è la vostra politica di reso?",
+          "answer": "Accettiamo restituzioni solo entro 30 giorni dalla data dell'ordine, purché l'articolo sia nelle sue condizioni originali."
+        },
+        {
+          "question": "Come posso avviare un reso?",
+          "answer": "Per avviare un reso, contattare il nostro team di assistenza tramite Live Chat 24/7 con i dettagli dell'ordine o compilare il modulo di reso online gratuito."
+        }
+      ],
+      "refund_policy": [
+        {
+          "question": "Qual è la vostra politica di rimborso?",
+          "answer": "I rimborsi vengono elaborati entro 5-10 giorni lavorativi dal ricevimento dell'articolo restituito. Il rimborso sarà effettuato sul metodo di pagamento originale."
+        },
+        {
+          "question": "Come si avvia un rimborso?",
+          "answer": "È possibile effettuare una richiesta di rimborso inviando un'e-mail a refunds@fcflippers.com indicando il numero d'ordine dell'articolo e il nome associato all'ordine."
+        },
+        {
+          "question": "Quanto tempo ci vuole per ricevere un rimborso?",
+          "answer": "I rimborsi saranno elaborati entro 5-10 giorni lavorativi dalla ricezione della richiesta di rimborso."
+        }
+      ]
+    }
+  }
+}
