@@ -15,7 +15,7 @@ const FAQ = () => {
   }, []);
 
   useEffect(() => {
-    fetch("/src/FAQData/faq_combined.json")
+    fetch("/FAQData/faq_combined.json")
       .then((response) => response.json())
       .then((data) => {
         const currentLang = i18n.language;
