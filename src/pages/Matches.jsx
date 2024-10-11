@@ -10,7 +10,7 @@ const Matches = () => {
 
   useEffect(() => {
     // Fetch the data from the JSON file
-    fetch("/src/MatchesData/matchesData.json")
+    fetch("/MatchesData/matchesData.json")
       .then((response) => response.json())
       .then((data) => setMatches(data))
       .catch((error) => console.error("Error fetching match data:", error));

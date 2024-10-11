@@ -15,7 +15,7 @@ const Fixtures = () => {
   useEffect(() => {
     const fetchFixtures = async () => {
       try {
-        const response = await fetch("/src/FixturesData/fixturesData.json");
+        const response = await fetch("/FixturesData/fixturesData.json");
         const data = await response.json();
         setMatches(data);
       } catch (error) {
