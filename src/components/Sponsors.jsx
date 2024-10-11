@@ -9,7 +9,7 @@ const Sponsors = () => {
   const [sponsors, setSponsors] = useState([]);
 
   useEffect(() => {
-    fetch("/sponsorsData.json")
+    fetch("/SponsorsData/sponsorsData.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Network response was not ok");
