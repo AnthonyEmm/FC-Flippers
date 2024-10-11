@@ -23,7 +23,7 @@ const RelatedNews = () => {
   }, []);
 
   useEffect(() => {
-    fetch("/src/RelatedNewsData/relatedNews.json")
+    fetch("/RelatedNewsData/relatedNews.json")
       .then((response) => response.json())
       .then((data) => setNewsItems(data))
       .catch((error) => console.error("Error fetching news items:", error));

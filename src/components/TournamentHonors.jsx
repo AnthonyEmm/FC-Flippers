@@ -22,7 +22,7 @@ const TournamentHonors = () => {
 
   useEffect(() => {
     // Fetch the data from the JSON file
-    fetch("/src/TournamentHonorsData/tournamentHonors.json")
+    fetch("/TournamentHonorsData/tournamentHonors.json")
       .then((response) => response.json())
       .then((data) => setHonorsData(data))
       .catch((error) => console.error("Error fetching the data:", error));
