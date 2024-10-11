@@ -9,8 +9,13 @@ const Sponsors = () => {
   const [sponsors, setSponsors] = useState([]);
 
   useEffect(() => {
-    fetch("/src/SponsorsData/sponsorsData.json")
-      .then((response) => response.json())
+    fetch("/sponsorsData.json")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
+        return response.json();
+      })
       .then((data) => setSponsors(data))
       .catch((error) => console.error("Error loading sponsors:", error));
   }, []);
