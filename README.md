@@ -24,6 +24,7 @@ Welcome to the &copy;FC Flippers project! This is the FC Flippers football club 
 - Stadium
 - Detailed matches and fixtures
 - Live Chat
+- Appealling Tooltips
 - Forms (Simulation)
 - Club videos
 - Page translations using i18next
