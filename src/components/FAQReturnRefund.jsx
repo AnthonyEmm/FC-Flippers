@@ -18,7 +18,7 @@ const FAQReturnRefund = () => {
   }, []);
 
   useEffect(() => {
-    fetch("/src/ReturnRefundFaqData/faq_combined.json")
+    fetch("/ReturnRefundFaqData/faq_combined.json")
       .then((response) => response.json())
       .then((data) => {
         const currentLang = i18n.language;

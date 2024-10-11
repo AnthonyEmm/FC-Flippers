@@ -22,7 +22,7 @@ const ProductDetail = () => {
           setProduct(foundProduct);
         } else {
           // Fetch from API or JSON file if not found in state
-          const response = await fetch("/src/ProductsData/products.json");
+          const response = await fetch("/ProductsData/products.json");
           const data = await response.json();
           const product = data.products.find((p) => p.id === parseInt(id));
           setProduct(product);

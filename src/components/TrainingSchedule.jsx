@@ -9,7 +9,7 @@ const TrainingSchedule = () => {
 
   useEffect(() => {
     // Fetch training schedule data
-    fetch("/src/TrainingScheduleData/training_schedule.json")
+    fetch("/TrainingScheduleData/training_schedule.json")
       .then((response) => response.json())
       .then((data) => setSchedules(data.schedules))
       .catch((error) =>
@@ -17,7 +17,7 @@ const TrainingSchedule = () => {
       );
 
     // Fetch translation data
-    fetch("/src/TrainingScheduleData/training_schedule_translations.json")
+    fetch("/TrainingScheduleData/training_schedule_translations.json")
       .then((response) => response.json())
       .then((data) => setTranslations(data.training || {})) // Ensure it's an object
       .catch((error) => console.error("Error fetching translations:", error));
