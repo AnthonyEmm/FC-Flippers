@@ -76,7 +76,7 @@ const Home = () => {
           >
             <img
               src={card.src}
-              alt={card.alt}
+              alt={t("cardImages.cardAlt")}
               loading="lazy"
               className="w-full h-60 sm:h-72 md:h-80 lg:h-96 px-2 py-2 object-cover
                 shadow-lg transition-transform transform group-hover:scale-104

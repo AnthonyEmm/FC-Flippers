@@ -110,6 +110,9 @@
     "aggregate": "Result",
     "outcome": "WIN"
   },
+  "cardImages": {
+    "cardAlt": "Card Image"
+  },
   "stadium": {
     "pitch": "Our Stadium"
   },

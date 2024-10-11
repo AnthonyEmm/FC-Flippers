@@ -108,6 +108,9 @@
     "card5Alt": "Karte 5",
     "card6Alt": "Karte 6"
   },
+  "cardImages": {
+    "cardAlt": "Kartenbild"
+  },
   "stadium": {
     "pitch": "Unser Stadion"
   },

@@ -97,6 +97,9 @@
     "card5Alt": "Scheda 5",
     "card6Alt": "Scheda 6"
   },
+  "cardImages": {
+    "cardAlt": "Scheda immagine"
+  },
   "match": {
     "game": "Calendario Partite",
     "upcoming": "Prossime Partite",
