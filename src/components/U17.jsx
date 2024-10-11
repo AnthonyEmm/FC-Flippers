@@ -28,7 +28,7 @@ const U17 = () => {
   useEffect(() => {
     const fetchPlayers = async () => {
       try {
-        const response = await fetch("/src/U17TeamData/u17TeamData.json");
+        const response = await fetch("/U17TeamData/u17TeamData.json");
         const data = await response.json();
         setPlayers(data.players);
       } catch (error) {

@@ -14,7 +14,7 @@ const TeamShowcase = () => {
 
   const fetchTeams = async () => {
     try {
-      const response = await fetch("/src/TeamsShowcaseData/teams.json");
+      const response = await fetch("/TeamsShowcaseData/teams.json");
       const data = await response.json();
       const currentLang = i18n.language;
 
