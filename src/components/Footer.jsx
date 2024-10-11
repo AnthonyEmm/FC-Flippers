@@ -8,6 +8,7 @@ import {
   FaYoutube,
   FaArrowUp,
   FaTiktok,
+  FaGithub,
 } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
@@ -88,6 +89,22 @@ const Footer = () => {
               {t("social.follow")}
             </p>
             <div className="flex flex-wrap justify-center md:justify-start space-x-4">
+              <Link
+                to="https://github.com/AnthonyEmm/FC-Flippers"
+                target="_blank"
+                rel="noopener noreferrer"
+                id={t("socials.github")}
+                className="hover:text-white-600 text-white"
+                data-tooltip-id={t("socials.github")}
+                data-tooltip-content={t("socials.github")}
+              >
+                <FaGithub size={30} />
+              </Link>
+              <Tooltip
+                id={t("socials.github")}
+                place="bottom"
+                style={{ backgroundColor: "rgb(55 65 81)" }}
+              />
               <Link
                 to="https://www.facebook.com"
                 target="_blank"
