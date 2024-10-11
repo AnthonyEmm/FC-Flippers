@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone `[https://github.com/AnthonyEmm/FC-Flippers.git]`
-   cd fcflippers
+   cd fc-flippers
    ```
 2. Install the dependencies:
 

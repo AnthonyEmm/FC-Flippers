@@ -7,14 +7,16 @@
       "de": "Nationale Liga 2023/2024",
       "fr": "Ligue Nationale 2023/2024",
       "es": "Liga Nacional 2023/2024",
-      "it": "Lega Nazionale 2023/2024"
+      "it": "Lega Nazionale 2023/2024",
+      "ru": "Национальная Лига 2023/2024"
     },
     "description": {
       "en": "Winners of the prestigious National League",
       "de": "Sieger der renommierten Nationalen Liga",
       "fr": "Vainqueurs de la prestigieuse Ligue Nationale",
       "es": "Ganadores de la prestigiosa Liga Nacional",
-      "it": "Vincitori della prestigiosa Lega Nazionale"
+      "it": "Vincitori della prestigiosa Lega Nazionale",
+      "ru": "Победители престижной Национальной Лиги"
     }
   },
   {
@@ -25,14 +27,16 @@
       "de": "8-Team-Meisterschaft 2024",
       "fr": "Championnat à 8 Équipes 2024",
       "es": "Campeonato de 8 Equipos 2024",
-      "it": "Campionato a 8 Squadre 2024"
+      "it": "Campionato a 8 Squadre 2024",
+      "ru": "8-й командный чемпионат 2024 г."
     },
     "description": {
       "en": "Winners of the prestigious 8 team Championship",
       "de": "Sieger der renommierten 8-Team-Meisterschaft",
       "fr": "Vainqueurs de la prestigieuse ligue à 8 Championnat",
       "es": "Ganadores de la prestigiosa Liga de 8 Campeonato",
-      "it": "Vincitori della prestigiosa lega a 8 Campionato"
+      "it": "Vincitori della prestigiosa lega a 8 Campionato",
+      "ru": "Победители престижного 8-командного чемпионата"
     }
   },
   {
@@ -43,14 +47,16 @@
       "de": "Frauenliga 2023/2024",
       "fr": "Ligue Féminine 2023/2024",
       "es": "Liga Femenina 2023/2024",
-      "it": "Lega Femminile 2023/2024"
+      "it": "Lega Femminile 2023/2024",
+      "ru": "Женская Лига 2023/2024"
     },
     "description": {
       "en": "Clinched the Womens League title with a record-breaking season",
       "de": "Titelgewinn in der Frauenliga mit einer rekordverdächtigen Saison",
       "fr": "Titre de la Ligue Féminine remporté avec une saison record",
       "es": "Ganaron el título de la Liga Femenina con una temporada récord",
-      "it": "Conquistato il titolo della Lega Femminile con una stagione da record"
+      "it": "Conquistato il titolo della Lega Femminile con una stagione da record",
+      "ru": "Завоевала титул женской лиги, проведя рекордный сезон"
     }
   },
   {
@@ -61,14 +67,16 @@
       "de": "Europa U-17 Liga 2023/2024",
       "fr": "Ligue Europa U-17 2023/2024",
       "es": "Liga Europa U-17 2023/2024",
-      "it": "Lega Europa U-17 2023/2024"
+      "it": "Lega Europa U-17 2023/2024",
+      "ru": "Лига Европы Под-17 2023/2024"
     },
     "description": {
       "en": "Lifted the Europa U-17 League trophy in an incredible campaign",
       "de": "Den Europa U-17-Liga-Pokal in einer unglaublichen Saison gewonnen",
       "fr": "Vainqueurs du trophée de la Ligue Europa U-17 après une campagne incroyable",
       "es": "Ganaron el trofeo de la Liga Europa U-17 en una campaña increíble",
-      "it": "Sollevato il trofeo della Lega Europa U-17 in una campagna incredibile"
+      "it": "Sollevato il trofeo della Lega Europa U-17 in una campagna incredibile",
+      "ru": "Поднял трофей Лиги Европы Под-17 в невероятной кампании"
     }
   },
   {
@@ -79,14 +87,16 @@
       "de": "Gemeinschaftspokal 2024",
       "fr": "Coupe Communautaire 2024",
       "es": "Copa Comunitaria 2024",
-      "it": "Coppa della Comunità 2024"
+      "it": "Coppa della Comunità 2024",
+      "ru": "Кубок Сообщества 2024 г."
     },
     "description": {
       "en": "Started the season by winning the Community Cup",
       "de": "Die Saison mit dem Gewinn des Gemeinschaftspokals begonnen",
       "fr": "Commencé la saison en remportant la Coupe Communautaire",
       "es": "Comenzaron la temporada ganando la Copa Comunitaria",
-      "it": "Iniziato la stagione vincendo la Coppa della Comunità"
+      "it": "Iniziato la stagione vincendo la Coppa della Comunità",
+      "ru": "Начал сезон с победы в Кубке Сообщества"
     }
   },
   {
@@ -97,14 +107,16 @@
       "de": "4-Team-Jugendpokal 2024",
       "fr": "Coupe des Jeunes à 4 Équipes 2024",
       "es": "Copa Juvenil de 4 Equipos 2024",
-      "it": "Coppa Giovani a 4 Squadre 2024"
+      "it": "Coppa Giovani a 4 Squadre 2024",
+      "ru": "4-й командный молодежный кубок 2024 г."
     },
     "description": {
       "en": "Academy team winners of the Europa 4 Team Youth Cup",
       "de": "Akademiemannschaft Sieger des Europa 4-Team-Jugendpokals",
       "fr": "Équipe de l'académie vainqueur de la Coupe des Jeunes à 4 Équipes",
       "es": "Equipo de academia ganador de la Copa Juvenil de 4 Equipos de Europa",
-      "it": "Squadra dell'accademia vincitrice della Coppa Giovani a 4 Squadre d'Europa"
+      "it": "Squadra dell'accademia vincitrice della Coppa Giovani a 4 Squadre d'Europa",
+      "ru": "Победители команды Академии командного молодежного кубка Европы 4"
     }
   },
   {
@@ -115,14 +127,16 @@
       "de": "Bester Trainer 2023",
       "fr": "Meilleur Entraîneur 2023",
       "es": "Mejor Entrenador 2023",
-      "it": "Miglior Allenatore 2023"
+      "it": "Miglior Allenatore 2023",
+      "ru": "Лучший тренер 2023 г."
     },
     "description": {
       "en": "Crowned one of our Coaches Best Coach in 2023",
       "de": "Einer unserer Trainer wurde 2023 als Bester Trainer gekrönt",
       "fr": "L'un de nos entraîneurs couronné Meilleur Entraîneur en 2023",
       "es": "Uno de nuestros entrenadores fue coronado Mejor Entrenador en 2023",
-      "it": "Uno dei nostri allenatori è stato incoronato Miglior Allenatore nel 2023"
+      "it": "Uno dei nostri allenatori è stato incoronato Miglior Allenatore nel 2023",
+      "ru": "Вошел в число лучших тренеров нашей компании в 2023 г."
     }
   },
   {
@@ -133,14 +147,16 @@
       "de": "Präsidentenpokal 2022",
       "fr": "Coupe du Président 2022",
       "es": "Copa del Presidente 2022",
-      "it": "Coppa del Presidente 2022"
+      "it": "Coppa del Presidente 2022",
+      "ru": "Кубок Президента 2022 г."
     },
     "description": {
       "en": "Crowned champions of the President Cup",
       "de": "Als Sieger des Präsidentenpokals gekrönt",
       "fr": "Couronnés champions de la Coupe du Président",
       "es": "Coronados campeones de la Copa del Presidente",
-      "it": "Incoronati campioni della Coppa del Presidente"
+      "it": "Incoronati campioni della Coppa del Presidente",
+      "ru": "Коронованные чемпионы Кубка Президента"
     }
   },
   {
@@ -151,14 +167,16 @@
       "de": "Winston-Pokal 2016",
       "fr": "Coupe Winston 2016",
       "es": "Copa Winston 2016",
-      "it": "Coppa Winston 2016"
+      "it": "Coppa Winston 2016",
+      "ru": "Кубок Уинстона 2016 г."
     },
     "description": {
       "en": "Secured the Winston Cup in a thrilling final",
       "de": "Den Winston-Pokal in einem spannenden Finale gesichert",
       "fr": "Remporté la Coupe Winston dans une finale palpitante",
       "es": "Ganaron la Copa Winston en una final emocionante",
-      "it": "Conquistata la Coppa Winston in una finale entusiasmante"
+      "it": "Conquistata la Coppa Winston in una finale entusiasmante",
+      "ru": "Завоевал Кубок Уинстона в захватывающем финале"
     }
   },
   {
@@ -169,14 +187,16 @@
       "de": "Ligaderby 2015",
       "fr": "Derby de Ligue 2015",
       "es": "Derbi de Liga 2015",
-      "it": "Derby di Lega 2015"
+      "it": "Derby di Lega 2015",
+      "ru": "Лига Дерби 2015 г."
     },
     "description": {
       "en": "Claimed the League Derby with a stunning performance",
       "de": "Das Ligaderby mit einer beeindruckenden Leistung gewonnen",
       "fr": "Remporté le Derby de Ligue avec une performance époustouflante",
       "es": "Ganaron el Derbi de Liga con una actuación impresionante",
-      "it": "Vinto il Derby di Lega con una prestazione straordinaria"
+      "it": "Vinto il Derby di Lega con una prestazione straordinaria",
+      "ru": "Выиграл Дерби Лиги с потрясающим выступлением"
     }
   },
   {
@@ -187,14 +207,16 @@
       "de": "Nationale Liga 2012/2013",
       "fr": "Ligue Nationale 2012/2013",
       "es": "Liga Nacional 2012/2013",
-      "it": "Lega Nazionale 2012/2013"
+      "it": "Lega Nazionale 2012/2013",
+      "ru": "Национальная Лига 2012/2013"
     },
     "description": {
       "en": "Winners of the prestigious National League 2012/2013",
       "de": "Sieger der renommierten Nationalen Liga 2012/2013",
       "fr": "Vainqueurs de la prestigieuse Ligue Nationale 2012/2013",
       "es": "Ganadores de la prestigiosa Liga Nacional 2012/2013",
-      "it": "Vincitori della prestigiosa Lega Nazionale 2012/2013"
+      "it": "Vincitori della prestigiosa Lega Nazionale 2012/2013",
+      "ru": "Победители престижной Национальной Лиги 2012/2013 гг."
     }
   }
 ]

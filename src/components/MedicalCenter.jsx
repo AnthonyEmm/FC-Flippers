@@ -88,7 +88,7 @@ const MedicalCenter = () => {
                 >
                   <img
                     src={item.image}
-                    alt={translation.title}
+                    alt={item.title}
                     className="w-full h-auto rounded-lg shadow-md 
                     transition-transform transform hover:scale-105"
                     data-aos="zoom-out"

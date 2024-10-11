@@ -5,7 +5,8 @@
       "de": "Trainingszeitplan",
       "fr": "Horaire d'entraînement",
       "es": "Horario de entrenamiento",
-      "it": "Programma di allenamento"
+      "it": "Programma di allenamento",
+      "ru": "Расписание тренировок"
     },
     "thead": {
       "day": {
@@ -13,21 +14,24 @@
         "de": "Tag",
         "fr": "Jour",
         "es": "Día",
-        "it": "Giorno"
+        "it": "Giorno",
+        "ru": "День"
       },
       "time": {
         "en": "Time",
         "de": "Zeit",
         "fr": "Heure",
         "es": "Hora",
-        "it": "Orario"
+        "it": "Orario",
+        "ru": "Время"
       },
       "location": {
         "en": "Location",
         "de": "Ort",
         "fr": "Lieu",
         "es": "Ubicación",
-        "it": "Posizione"
+        "it": "Posizione",
+        "ru": "Расположение"
       }
     },
     "men": {
@@ -35,28 +39,32 @@
       "de": "Männer-Mannschaft",
       "fr": "Équipe masculine",
       "es": "Equipo masculino",
-      "it": "Squadra maschile"
+      "it": "Squadra maschile",
+      "ru": "Мужская Команда"
     },
     "women": {
       "en": "Women's Team",
       "de": "Damen-Mannschaft",
       "fr": "Équipe féminine",
       "es": "Equipo femenino",
-      "it": "Squadra femminile"
+      "it": "Squadra femminile",
+      "ru": "Женская Команда"
     },
     "u17": {
       "en": "U17 Team",
       "de": "U17-Mannschaft",
       "fr": "Équipe U17",
       "es": "Equipo U17",
-      "it": "Squadra U17"
+      "it": "Squadra U17",
+      "ru": "Команда Под-17"
     },
     "academy": {
       "en": "Academy Team",
       "de": "Akademie-Mannschaft",
       "fr": "Équipe de l'académie",
       "es": "Equipo de la academia",
-      "it": "Squadra dell'accademia"
+      "it": "Squadra dell'accademia",
+      "ru": "Команда Академии"
     },
     "day": {
       "monday": {
@@ -64,42 +72,48 @@
         "de": "Montag",
         "fr": "Lundi",
         "es": "Lunes",
-        "it": "Lunedì"
+        "it": "Lunedì",
+        "ru": "Понедельник"
       },
       "tuesday": {
         "en": "Tuesday",
         "de": "Dienstag",
         "fr": "Mardi",
         "es": "Martes",
-        "it": "Martedì"
+        "it": "Martedì",
+        "ru": "Вторник"
       },
       "wednesday": {
         "en": "Wednesday",
         "de": "Mittwoch",
         "fr": "Mercredi",
         "es": "Miércoles",
-        "it": "Mercoledì"
+        "it": "Mercoledì",
+        "ru": "Среда"
       },
       "thursday": {
         "en": "Thursday",
         "de": "Donnerstag",
         "fr": "Jeudi",
         "es": "Jueves",
-        "it": "Giovedì"
+        "it": "Giovedì",
+        "ru": "Четверг"
       },
       "friday": {
         "en": "Friday",
         "de": "Freitag",
         "fr": "Vendredi",
         "es": "Viernes",
-        "it": "Venerdì"
+        "it": "Venerdì",
+        "ru": "Пятница"
       },
       "saturday": {
         "en": "Saturday",
         "de": "Samstag",
         "fr": "Samedi",
         "es": "Sábado",
-        "it": "Sabato"
+        "it": "Sabato",
+        "ru": "Суббота"
       }
     },
     "time": {
@@ -108,35 +122,40 @@
         "de": "18:00 - 20:00 Uhr",
         "fr": "18h00 - 20h00",
         "es": "18:00 - 20:00",
-        "it": "18:00 - 20:00"
+        "it": "18:00 - 20:00",
+        "ru": "18:00 - 20:00"
       },
       "five_pm_to_seven_pm": {
         "en": "5:00 PM - 7:00 PM",
         "de": "17:00 - 19:00 Uhr",
         "fr": "17h00 - 19h00",
         "es": "17:00 - 19:00",
-        "it": "17:00 - 19:00"
+        "it": "17:00 - 19:00",
+        "ru": "17:00 - 19:00"
       },
       "ten_am_to_twelve_pm": {
         "en": "10:00 AM - 12:00 PM",
         "de": "10:00 - 12:00 Uhr",
         "fr": "10h00 - 12h00",
         "es": "10:00 - 12:00",
-        "it": "10:00 - 12:00"
+        "it": "10:00 - 12:00",
+        "ru": "10:00 - 12:00"
       },
       "four_pm_to_six_pm": {
         "en": "4:00 PM - 6:00 PM",
         "de": "16:00 - 18:00 Uhr",
         "fr": "16h00 - 18h00",
         "es": "16:00 - 18:00",
-        "it": "16:00 - 18:00"
+        "it": "16:00 - 18:00",
+        "ru": "16:00 - 18:00"
       },
       "nine_am_to_eleven_am": {
         "en": "9:00 AM - 11:00 AM",
         "de": "09:00 - 11:00 Uhr",
         "fr": "09h00 - 11h00",
         "es": "09:00 - 11:00",
-        "it": "09:00 - 11:00"
+        "it": "09:00 - 11:00",
+        "ru": "09:00 - 11:00"
       }
     },
     "location": {
@@ -145,28 +164,32 @@
         "de": "Hauptfeld",
         "fr": "Terrain principal",
         "es": "Campo principal",
-        "it": "Campo principale"
+        "it": "Campo principale",
+        "ru": "Основное поле"
       },
       "secondary_field": {
         "en": "Secondary Field",
         "de": "Nebenplatz",
         "fr": "Terrain secondaire",
         "es": "Campo secundario",
-        "it": "Campo secondario"
+        "it": "Campo secondario",
+        "ru": "Вторичное поле"
       },
       "training_ground": {
         "en": "Training Ground",
         "de": "Trainingsplatz",
         "fr": "Terrain d'entraînement",
         "es": "Campo de entrenamiento",
-        "it": "Campo d'allenamento"
+        "it": "Campo d'allenamento",
+        "ru": "Тренировочная площадка"
       },
       "academy_field": {
         "en": "Academy Field",
         "de": "Akademieplatz",
         "fr": "Terrain de l'académie",
         "es": "Campo de la academia",
-        "it": "Campo dell'accademia"
+        "it": "Campo dell'accademia",
+        "ru": "Академия площадка"
       }
     }
   }

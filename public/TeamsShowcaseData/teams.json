@@ -7,14 +7,16 @@
         "de": "Männer",
         "fr": "Hommes",
         "es": "Hombres",
-        "it": "Uomini"
+        "it": "Uomini",
+        "ru": "Мужчины"
       },
       "description": {
         "en": "FC Flippers Men's team",
         "de": "FC Flippers Männermannschaft",
         "fr": "Équipe masculine des FC Flippers",
         "es": "Equipo masculino de FC Flippers",
-        "it": "Squadra maschile FC Flippers"
+        "it": "Squadra maschile FC Flippers",
+        "ru": "Мужская команда ФК Флипперс"
       },
       "image": "/male_team.jpg",
       "alt": {
@@ -22,7 +24,8 @@
         "de": "Team 1",
         "fr": "Équipe 1",
         "es": "Equipo 1",
-        "it": "Squadra 1"
+        "it": "Squadra 1",
+        "ru": "Kоманда 1"
       },
       "link": "/team/mens"
     },
@@ -33,14 +36,16 @@
         "de": "Frauen",
         "fr": "Femmes",
         "es": "Mujeres",
-        "it": "Donne"
+        "it": "Donne",
+        "ru": "Женщины"
       },
       "description": {
         "en": "FC Flippers Women's team",
         "de": "FC Flippers Frauenmannschaft",
         "fr": "Équipe féminine des FC Flippers",
         "es": "Equipo femenino de FC Flippers",
-        "it": "Squadra femminile FC Flippers"
+        "it": "Squadra femminile FC Flippers",
+        "ru": "Женская команда ФК Флипперс"
       },
       "image": "/female.jpg",
       "alt": {
@@ -48,7 +53,8 @@
         "de": "Team 2",
         "fr": "Équipe 2",
         "es": "Equipo 2",
-        "it": "Squadra 2"
+        "it": "Squadra 2",
+        "ru": "Kоманда 2"
       },
       "link": "/team/womens"
     },
@@ -59,14 +65,16 @@
         "de": "U-17",
         "fr": "U-17",
         "es": "U-17",
-        "it": "U-17"
+        "it": "U-17",
+        "ru": "Под-17"
       },
       "description": {
         "en": "FC Flippers youth team",
         "de": "FC Flippers Jugendmannschaft",
         "fr": "Équipe de jeunes FC Flippers",
         "es": "Equipo juvenil de FC Flippers",
-        "it": "Squadra giovanile FC Flippers"
+        "it": "Squadra giovanile FC Flippers",
+        "ru": "Молодежная команда ФК Флипперс"
       },
       "image": "/u17_team.jpg",
       "alt": {
@@ -74,7 +82,8 @@
         "de": "Team 3",
         "fr": "Équipe 3",
         "es": "Equipo 3",
-        "it": "Squadra 3"
+        "it": "Squadra 3",
+        "ru": "Kоманда 3"
       },
       "link": "/team/u17"
     }

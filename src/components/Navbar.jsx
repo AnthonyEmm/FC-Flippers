@@ -279,7 +279,8 @@ const Navbar = () => {
           {languageDropdownOpen && (
             <div
               ref={languageDropdownRef}
-              className="absolute right-0 top-full mt-2 bg-gray-800 text-yellow-400 rounded-lg shadow-lg w-32 z-10"
+              className="absolute right-0 top-full mt-2 bg-gray-800 text-yellow-400 
+              rounded-lg shadow-lg w-32 z-10 font-custom"
             >
               <div className="p-2">
                 <button
@@ -311,6 +312,12 @@ const Navbar = () => {
                   className="block w-full text-left px-4 py-2 hover:bg-gray-700"
                 >
                   ITALIANO
+                </button>
+                <button
+                  onClick={() => changeLanguage("ru")}
+                  className="block w-full text-left px-4 py-2 hover:bg-gray-700"
+                >
+                  РУССКИЙ
                 </button>
               </div>
             </div>
