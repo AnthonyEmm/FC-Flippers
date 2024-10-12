@@ -509,23 +509,23 @@ const Store = () => {
         {/* Product Modal */}
         {selectedProduct && (
           <div className="fixed inset-0 bg-gray-800 bg-opacity-60 flex justify-center items-center z-50">
-            <div className="bg-white p-8 rounded-lg shadow-lg relative w-full max-w-lg">
+            <div className="bg-white rounded-lg p-6 max-w-lg w-full relative">
               <button
                 onClick={closeModal}
                 className="absolute top-4 right-4 text-gray-400 hover:text-black text-2xl 
-            hover:bg-gray-200 w-12 h-12 flex items-center justify-center rounded-full 
-            transition-colors duration-300 font-bold"
+                hover:bg-gray-200 w-12 h-12 flex items-center justify-center rounded-full 
+                  transition-colors duration-300 font-bold"
               >
                 <FiX size={24} />
               </button>
 
-              <h2 className="font-bold text-xl mb-4">
+              <h2 className="font-bold text-xl mb-2">
                 {t(`products.${selectedProduct.key}`)}
               </h2>
               <img
                 src={selectedProduct.image}
                 alt={t(`products.${selectedProduct.key}`)}
-                className="w-full h-96 object-cover rounded-lg mb-4"
+                className="w-full h-80 md:h-80 object-cover overflow-hidden mb-6 rounded-lg"
               />
               <p className="text-black mb-4 mt-8 font-bold text-2xl">
                 {t("modals.material")}
