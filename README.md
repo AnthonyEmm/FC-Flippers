@@ -23,6 +23,7 @@ Welcome to the &copy;FC Flippers project! This is the FC Flippers football club 
 - Club News
 - Stadium
 - Detailed matches and fixtures
+- Teams League standing table
 - Live Chat
 - Appealling Tooltips
 - Forms (Simulation)
@@ -30,7 +31,7 @@ Welcome to the &copy;FC Flippers project! This is the FC Flippers football club 
 - Page translations using i18next
 - Animated page transitions
 - Notifications for user interactions
-- Online shop/Checkout page integration (Simulation)
+- Online Shop/Checkout page integration (Simulation)
 
 ## Installation
 
@@ -65,7 +66,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        custom: ["Exo", "sans-serif"],
+        custom: ["Exo", "Roboto", "san-serif"],
       },
       keyframes: {
         bounce: {
@@ -128,6 +129,7 @@ import translationDE from "./translations/de.json";
 import translationFR from "./translations/fr.json";
 import translationES from "./translations/es.json";
 import translationIT from "./translations/it.json";
+import translationRU from "./translations/ru.json";
 
 const resources = {
   en: { translation: translationEN },
@@ -135,6 +137,7 @@ const resources = {
   fr: { translation: translationFR },
   es: { translation: translationES },
   it: { translation: translationIT },
+  ru: { translation: translationRU },
 };
 
 i18n
@@ -205,7 +208,9 @@ The project structure is organized as follows:
 DeluxRental/
 ├── node_modules
 ├── public/
-│   └── ...
+│   ├── jsonDataFiles
+│   ├── videos
+│   ├── images
 ├── src/
 │   ├── components/
     ├── translations
@@ -214,7 +219,6 @@ DeluxRental/
         ├── es.json
         ├── fr.json
         ├── it.json
-    ├── jsonDataFiles
     ├── assets/
 │   ├── App.jsx
 │   ├── i18n.js
