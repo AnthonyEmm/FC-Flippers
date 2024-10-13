@@ -495,7 +495,7 @@
     "cardNumber": "Номер карты",
     "cardNumberPlaceholder": "0000-0000-0000-0000",
     "expiryPlaceholder": "00/00",
-    "expiryDate": "Дата окончания срока действия",
+    "expiryDate": "Cрок действия",
     "cvvPlaceholder": "123",
     "error": "Пожалуйста, заполните все поля",
     "nameTitle": "Требуется имя и фамилия",
