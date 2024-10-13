@@ -3,7 +3,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        custom: ["Exo", "Montserrat", "san-serif"],
+        custom: ["Exo", "Roboto", "san-serif"],
       },
       keyframes: {
         bounce: {
