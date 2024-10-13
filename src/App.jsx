@@ -38,6 +38,8 @@ import WomenTeamLoss from "./components/WomenTeamLoss";
 import TrainingSchedule from "./components/TrainingSchedule";
 import CookiePopup from "./components/CookiePopup";
 import PrivacyPolicy from "./components/PrivacyPolicy";
+import StandingsShowcase from "./components/StandingsShowcase";
+import Standings from "./components/Standings";
 
 const App = () => {
   const [basket, setBasket] = useState([]);
@@ -215,6 +217,11 @@ const App = () => {
               <Route
                 path={getLanguagePrefix("/news/recap-of-fc-knights-game")}
                 element={<RecapMatch />}
+                exact
+              />
+              <Route
+                path={getLanguagePrefix("/standings")}
+                element={<Standings />}
                 exact
               />
 

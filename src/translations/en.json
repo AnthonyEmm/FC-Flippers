@@ -624,5 +624,20 @@
   },
   "expiry": {
     "placeholder": "Please enter a valid expiry date in MM/YY format"
+  },
+  "standings": {
+    "title": "National League Standings 2024/2025",
+    "top5title": "Top 5 Clubs",
+    "viewMore": "View More",
+    "position": "Position",
+    "team": "Teams",
+    "played": "P",
+    "won": "W",
+    "drawn": "D",
+    "lost": "L",
+    "gf": "GF",
+    "ga": "GA",
+    "gd": "GD",
+    "points": "Pts"
   }
 }

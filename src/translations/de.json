@@ -617,5 +617,20 @@
   "toolTip": {
     "open": "Suche öffnen",
     "close": "Schließen"
+  },
+  "standings": {
+    "title": "Tabellen der National League 2024/2025",
+    "top5title": "Die 5 besten Clubs",
+    "viewMore": "Mehr sehen",
+    "position": "Position",
+    "team": "Mannschaften",
+    "played": "SP",
+    "won": "S",
+    "drawn": "U",
+    "lost": "N",
+    "gf": "GT",
+    "ga": "GT",
+    "gd": "TD",
+    "points": "Pkt"
   }
 }
