@@ -81,31 +81,31 @@ const PlayerOfTheMonth = () => {
           <i>{t("announcement.articleDate")}</i>
         </p>
         <p
-          className="text-black mb-4 text-justify
+          className="text-black mb-4 text-left
          font-semibold text-sm sm:text-lg"
         >
           {t("announcement.message")}
         </p>
         <p
-          className="text-black text-justify
+          className="text-black text-left
          mb-4 font-semibold text-sm sm:text-lg"
         >
           {t("announcement.ability")}
         </p>
         <p
-          className="text-black text-justify
+          className="text-black text-left
          mb-4 font-semibold text-sm sm:text-lg"
         >
           {t("announcement.performance")}
         </p>
         <p
-          className="text-black text-justify
+          className="text-black text-left
          mb-4 font-semibold text-sm sm:text-lg"
         >
           {t("announcement.dedication")}
         </p>
         <p
-          className="text-black text-justify
+          className="text-black text-left
          mb-8 font-semibold text-sm sm:text-lg"
         >
           {t("announcement.acknowledgement")}
