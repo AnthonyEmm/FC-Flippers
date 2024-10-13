@@ -21,7 +21,7 @@ const Standings = () => {
 
   return (
     <div className="w-full py-8 px-4 md:px-8 font-custom bg-blue-50">
-      <h2 className="text-2xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold mb-8 text-left uppercase mt-4">
+      <h2 className="text-2xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold mb-8 text-left uppercase mt-2">
         {t("standings.title")}
       </h2>
       <div className="overflow-x-auto">

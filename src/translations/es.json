@@ -109,7 +109,7 @@
     "result": "Puntuación",
     "time": "Hora",
     "aggregate": "Resultado",
-    "outcome": "GANA"
+    "outcome": "VICTORIA"
   },
   "stadium": {
     "pitch": "Nuestro Estadio"
@@ -622,11 +622,11 @@
     "title": "Clasificación de la Liga Nacional 2024/2025",
     "top5title": "Los 5 mejores clubes",
     "viewMore": "Ver Más",
-    "position": "Posición",
+    "position": "POSICIÓN",
     "positionShort": "P",
-    "team": "Equipos",
+    "team": "EQUIPOS",
     "played": "PJ",
-    "won": "G",
+    "won": "V",
     "drawn": "E",
     "lost": "P",
     "gf": "GF",
