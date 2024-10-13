@@ -617,5 +617,20 @@
   "toolTip": {
     "open": "Búsqueda abierta",
     "close": "Cerrar"
+  },
+  "standings": {
+    "title": "Clasificación de la Liga Nacional 2024/2025",
+    "top5title": "Los 5 mejores clubes",
+    "viewMore": "Ver Más",
+    "position": "Posición",
+    "team": "Equipos",
+    "played": "PJ",
+    "won": "G",
+    "drawn": "E",
+    "lost": "P",
+    "gf": "GF",
+    "ga": "GC",
+    "gd": "DG",
+    "points": "Pts"
   }
 }

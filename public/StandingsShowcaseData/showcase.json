@@ -1,0 +1,140 @@
+{
+  "en": {
+    "teams": [
+      {
+        "id": 1,
+        "name": "FC Flippers",
+        "image": "/Flippers.png",
+        "played": 8,
+        "won": 7,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 16,
+        "ga": 4,
+        "gd": 12,
+        "points": 22
+      },
+      {
+        "id": 2,
+        "name": "Golden Stars",
+        "image": "/gold.png",
+        "played": 8,
+        "won": 7,
+        "drawn": 2,
+        "lost": 0,
+        "gf": 18,
+        "ga": 6,
+        "gd": 12,
+        "points": 20
+      },
+      {
+        "id": 3,
+        "name": "FC Knights",
+        "image": "/knights.png",
+        "played": 8,
+        "won": 6,
+        "drawn": 2,
+        "lost": 2,
+        "gf": 14,
+        "ga": 6,
+        "gd": 8,
+        "points": 20
+      },
+      {
+        "id": 4,
+        "name": "FC Eagles",
+        "image": "/eagles.png",
+        "played": 8,
+        "won": 5,
+        "drawn": 1,
+        "lost": 2,
+        "gf": 24,
+        "ga": 9,
+        "gd": 15,
+        "points": 16
+      },
+      {
+        "id": 5,
+        "name": "FC Fire",
+        "image": "/fc_fire.png",
+        "played": 8,
+        "won": 3,
+        "drawn": 4,
+        "lost": 1,
+        "gf": 14,
+        "ga": 4,
+        "gd": 10,
+        "points": 13
+      }
+    ]
+  },
+  "ru": {
+    "teams": [
+      {
+        "id": 1,
+        "name": "ФК Флипперс",
+        "image": "/Flippers.png",
+        "played": 8,
+        "won": 7,
+        "drawn": 1,
+        "lost": 0,
+        "gf": 16,
+        "ga": 4,
+        "gd": 12,
+        "points": 22
+      },
+      {
+        "id": 2,
+        "name": "ФК Золотые Звезды",
+        "image": "/gold.png",
+        "played": 8,
+        "won": 7,
+        "drawn": 2,
+        "lost": 0,
+        "gf": 18,
+        "ga": 6,
+        "gd": 12,
+        "points": 20
+      },
+      {
+        "id": 3,
+        "name": "ФК Найтс",
+        "image": "/knights.png",
+        "played": 8,
+        "won": 6,
+        "drawn": 2,
+        "lost": 2,
+        "gf": 14,
+        "ga": 6,
+        "gd": 8,
+        "points": 20
+      },
+      {
+        "id": 4,
+        "name": "ФК Иглз",
+        "image": "/eagles.png",
+        "played": 8,
+        "won": 5,
+        "drawn": 1,
+        "lost": 2,
+        "gf": 24,
+        "ga": 9,
+        "gd": 15,
+        "points": 16
+      },
+      {
+        "id": 5,
+        "name": "ФК Огонь",
+        "image": "/fc_fire.png",
+        "played": 8,
+        "won": 3,
+        "drawn": 4,
+        "lost": 1,
+        "gf": 14,
+        "ga": 4,
+        "gd": 10,
+        "points": 13
+      }
+    ]
+  }
+}

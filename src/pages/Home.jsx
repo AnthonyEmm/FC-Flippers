@@ -15,6 +15,7 @@ import FAQ from "../components/FAQ";
 import Newsletter from "../components/Newsletter";
 import TournamentHonors from "../components/TournamentHonors";
 import Countdown from "../components/Countdown";
+import StandingsShowcase from "../components/StandingsShowcase";
 
 const Home = () => {
   const { t, i18n } = useTranslation();
@@ -196,6 +197,7 @@ const Home = () => {
         </div>
       </div>
       <Fixtures />
+      <StandingsShowcase />
       <TeamShowcase />
       <VideoShowcase />
       <TournamentHonors />
