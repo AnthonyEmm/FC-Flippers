@@ -172,7 +172,7 @@ To run the project in development mode:
 
 ## Dependencies
 
-DeluxRental uses the following dependencies:
+FC Flippers uses the following dependencies:
 
 - `aos`: Animate on scroll library for scroll animations.
 - `react`: A JavaScript library for building user interfaces.
