@@ -12,7 +12,7 @@ export default {
         },
       },
       animation: {
-        bounceOnce: "bounce 1s ease-in-out 3",
+        pulseTrice: "pulse 1s ease-in-out 3",
       },
       scrollBehavior: {
         smooth: "smooth",
