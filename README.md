@@ -182,7 +182,6 @@ DeluxRental uses the following dependencies:
 - `react-router-dom`: Declarative routing for React.
 - `i18next-browser-languagedetector`: React language detector used in browser environment for i18next.
 - `react-i18next`: Powerful internationalization framework for React / React Native which is based on i18next.
-- `react-router-hash-link`: Hash link functionality for React Router.
 - `react-slick`: Carousel component built with React.
 - `react-tooltip`: React tooltip library.
 - `framer-motion`: Open-Source React animation and gesture library.
