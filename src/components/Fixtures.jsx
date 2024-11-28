@@ -56,7 +56,7 @@ const Fixtures = () => {
         >
           {t("match.upcoming")}
         </h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-6">
           {[...Array(3)].map((_, index) => (
             <div
               key={index}
@@ -81,7 +81,7 @@ const Fixtures = () => {
       >
         {t("match.upcoming")}
       </h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-6">
         {matches.upcoming.map((match, index) => (
           <div
             key={index}

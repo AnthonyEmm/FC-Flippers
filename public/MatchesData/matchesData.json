@@ -1,6 +1,41 @@
 {
   "played": [
     {
+      "date": "28-11-2024",
+      "opponent": "Brennan FC",
+      "opponentImage": "/bussik.png",
+      "score": "3 - 1",
+      "outcome": "WIN"
+    },
+    {
+      "date": "23-11-2024",
+      "opponent": "Kreslin FC ",
+      "opponentImage": "/sunrise.png",
+      "score": "5 - 2",
+      "outcome": "WIN"
+    },
+    {
+      "date": "16-11-2024",
+      "opponent": "Gothenburg SC",
+      "opponentImage": "/gothenburg.png",
+      "score": "2 - 1",
+      "outcome": "WIN"
+    },
+    {
+      "date": "13-11-2024",
+      "opponent": "FC Fire",
+      "opponentImage": "/fc_fire.png",
+      "score": "3 - 2",
+      "outcome": "WIN"
+    },
+    {
+      "date": "10-11-2024",
+      "opponent": "FC Eagles",
+      "opponentImage": "/eagles.png",
+      "score": "2 - 0",
+      "outcome": "WIN"
+    },
+    {
       "date": "28-09-2024",
       "opponent": "Highlands FC",
       "opponentImage": "/club-logo2.png",
@@ -58,41 +93,6 @@
     }
   ],
   "upcoming": [
-    {
-      "date": "10-11-2024",
-      "opponent": "FC Eagles",
-      "opponentImage": "/eagles.png",
-      "time": "18:00",
-      "aggregate": "--"
-    },
-    {
-      "date": "13-11-2024",
-      "opponent": "FC Fire",
-      "opponentImage": "/fc_fire.png",
-      "time": "20:00",
-      "aggregate": "--"
-    },
-    {
-      "date": "16-11-2024",
-      "opponent": "Gothenburg SC",
-      "opponentImage": "/gothenburg.png",
-      "time": "19:00",
-      "aggregate": "--"
-    },
-    {
-      "date": "23-11-2024",
-      "opponent": "Kreslin FC",
-      "opponentImage": "/sunrise.png",
-      "time": "21:00",
-      "aggregate": "--"
-    },
-    {
-      "date": "28-11-2024",
-      "opponent": "Brennan FC",
-      "opponentImage": "/bussik.png",
-      "time": "18:00",
-      "aggregate": "--"
-    },
     {
       "date": "30-11-2024",
       "opponent": "FC Golden Stars",
