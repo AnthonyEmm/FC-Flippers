@@ -8,12 +8,8 @@
     "store": "Shop"
   },
   "countdown": {
-    "count": "Der Countdown Beginnt",
+    "count": "Spieltag !!!",
     "clubLogo": "FC Flippers geg. FC Golden Stars",
-    "days": "Tage",
-    "hours": "Stunden",
-    "minutes": "Minuten",
-    "seconds": "Sekunden",
     "date": "November 30, 2024",
     "time": "Zeit: 17:00 Uhr",
     "imageAlt": "Logo der FC Flippers",

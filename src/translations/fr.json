@@ -8,12 +8,8 @@
     "store": "Magasin"
   },
   "countdown": {
-    "count": "Compte à rebours du Derby",
+    "count": "Jour du match !!!",
     "clubLogo": "FC Flippers contre FC Golden Stars",
-    "days": "Jours",
-    "hours": "Heures",
-    "minutes": "Minutes",
-    "seconds": "Secondes",
     "date": "30 Novembre 2024",
     "time": "Heure : 17h00",
     "imageAlt": "Logo des Flippers FC",
