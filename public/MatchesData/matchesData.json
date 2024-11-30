@@ -1,6 +1,13 @@
 {
   "played": [
     {
+      "date": "30-11-2024",
+      "opponent": "FC Golden Stars",
+      "opponentImage": "/gold.png",
+      "score": "4 - 3",
+      "outcome": "WIN"
+    },
+    {
       "date": "28-11-2024",
       "opponent": "Brennan FC",
       "opponentImage": "/bussik.png",
@@ -93,13 +100,6 @@
     }
   ],
   "upcoming": [
-    {
-      "date": "30-11-2024",
-      "opponent": "FC Golden Stars",
-      "opponentImage": "/gold.png",
-      "time": "17:00",
-      "aggregate": "--"
-    },
     {
       "date": "06-12-2024",
       "opponent": "Reso FC",
