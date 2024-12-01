@@ -9,6 +9,9 @@
   },
   "countdown": {
     "count": "Résultat à temps plein",
+    "flippers": "FC Flippers",
+    "golden": "Golden Stars",
+    "scorers": "Buteurs",
     "imageAlt": "Logo des Flippers FC",
     "imageAlt2": "Logo des Golden Stars "
   },
